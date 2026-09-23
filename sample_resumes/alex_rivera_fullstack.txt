@@ -1,0 +1,36 @@
+Alex Rivera
+alex.rivera@example.com | (555) 349-2018 | San Francisco, CA
+https://linkedin.com/in/alexrivera-tech | https://github.com/alexrivera-dev
+
+SUMMARY
+Innovative Senior Full Stack Engineer with 4+ years of professional experience designing high-throughput microservices and responsive user interfaces.
+
+EXPERIENCE
+Senior Software Engineer at CloudScale Systems
+Jan 2022 - Present | San Francisco, CA
+• Architected cloud-native distributed backend services using Python, FastAPI, and PostgreSQL, improving throughput by 42%.
+• Deployed Kubernetes clusters across Amazon Web Services (AWS) using Terraform and GitHub Actions.
+• Mentored junior engineers and led technical architecture reviews.
+
+Software Engineer at DataForge Labs
+Jun 2020 - Dec 2021 | San Jose, CA
+• Built interactive analytics dashboard using React, TypeScript, and Tailwind CSS.
+• Integrated Redis caching layer, reducing database query latencies by 60%.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley (2016 - 2020)
+GPA: 3.85 / 4.0
+
+TECHNICAL SKILLS
+Languages: Python, TypeScript, JavaScript, SQL, Go
+Frameworks: FastAPI, React, Next.js, Node.js, Express.js
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD
+Databases: PostgreSQL, Redis, MongoDB
+
+PROJECTS
+AI Content Engine | https://github.com/alexrivera-dev/ai-content-engine
+Developed an automated text summarization platform with Transformers and FastAPI.
+
+CERTIFICATIONS
+AWS Certified Solutions Architect Associate

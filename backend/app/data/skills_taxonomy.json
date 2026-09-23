@@ -1,0 +1,2395 @@
+{
+  "programming_languages": [
+    {
+      "name": "Python",
+      "normalized_name": "python",
+      "synonyms": [
+        "py",
+        "python3"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "normalized_name": "javascript",
+      "synonyms": [
+        "js",
+        "ecmascript",
+        "es6"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "normalized_name": "typescript",
+      "synonyms": [
+        "ts"
+      ]
+    },
+    {
+      "name": "Java",
+      "normalized_name": "java",
+      "synonyms": [
+        "java8",
+        "java11",
+        "java17",
+        "java21"
+      ]
+    },
+    {
+      "name": "C++",
+      "normalized_name": "cpp",
+      "synonyms": [
+        "c plus plus",
+        "c++17",
+        "c++20"
+      ]
+    },
+    {
+      "name": "C#",
+      "normalized_name": "csharp",
+      "synonyms": [
+        "c sharp",
+        ".net c#"
+      ]
+    },
+    {
+      "name": "C",
+      "normalized_name": "c",
+      "synonyms": [
+        "c language",
+        "ansi c"
+      ]
+    },
+    {
+      "name": "Go",
+      "normalized_name": "golang",
+      "synonyms": [
+        "go lang",
+        "golang"
+      ]
+    },
+    {
+      "name": "Rust",
+      "normalized_name": "rust",
+      "synonyms": [
+        "rustlang"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "normalized_name": "ruby",
+      "synonyms": [
+        "rb",
+        "ruby lang"
+      ]
+    },
+    {
+      "name": "PHP",
+      "normalized_name": "php",
+      "synonyms": [
+        "php7",
+        "php8"
+      ]
+    },
+    {
+      "name": "Swift",
+      "normalized_name": "swift",
+      "synonyms": [
+        "swiftlang",
+        "apple swift"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "normalized_name": "kotlin",
+      "synonyms": [
+        "kt",
+        "kotlinlang"
+      ]
+    },
+    {
+      "name": "R",
+      "normalized_name": "r",
+      "synonyms": [
+        "r project",
+        "r language",
+        "rlang"
+      ]
+    },
+    {
+      "name": "Scala",
+      "normalized_name": "scala",
+      "synonyms": [
+        "scala lang"
+      ]
+    },
+    {
+      "name": "Julia",
+      "normalized_name": "julia",
+      "synonyms": [
+        "julialang"
+      ]
+    },
+    {
+      "name": "MATLAB",
+      "normalized_name": "matlab",
+      "synonyms": [
+        "matrix laboratory"
+      ]
+    },
+    {
+      "name": "Shell Scripting",
+      "normalized_name": "shell_scripting",
+      "synonyms": [
+        "bash",
+        "sh",
+        "zsh"
+      ]
+    },
+    {
+      "name": "SQL",
+      "normalized_name": "sql",
+      "synonyms": [
+        "structured query language"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "normalized_name": "html5",
+      "synonyms": [
+        "html",
+        "hypertext markup language"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "normalized_name": "css3",
+      "synonyms": [
+        "css",
+        "cascading style sheets"
+      ]
+    },
+    {
+      "name": "Dart",
+      "normalized_name": "dart",
+      "synonyms": [
+        "dartlang"
+      ]
+    },
+    {
+      "name": "Lua",
+      "normalized_name": "lua",
+      "synonyms": [
+        "lua lang"
+      ]
+    },
+    {
+      "name": "Perl",
+      "normalized_name": "perl",
+      "synonyms": [
+        "perl5"
+      ]
+    },
+    {
+      "name": "Haskell",
+      "normalized_name": "haskell",
+      "synonyms": [
+        "ghc haskell"
+      ]
+    },
+    {
+      "name": "Elixir",
+      "normalized_name": "elixir",
+      "synonyms": [
+        "elixir lang"
+      ]
+    },
+    {
+      "name": "Clojure",
+      "normalized_name": "clojure",
+      "synonyms": [
+        "clj"
+      ]
+    },
+    {
+      "name": "Erlang",
+      "normalized_name": "erlang",
+      "synonyms": [
+        "erlang/otp"
+      ]
+    },
+    {
+      "name": "Groovy",
+      "normalized_name": "groovy",
+      "synonyms": [
+        "apache groovy"
+      ]
+    },
+    {
+      "name": "PowerShell",
+      "normalized_name": "powershell",
+      "synonyms": [
+        "posh",
+        "pwsh"
+      ]
+    },
+    {
+      "name": "Solidity",
+      "normalized_name": "solidity",
+      "synonyms": [
+        "sol"
+      ]
+    },
+    {
+      "name": "F#",
+      "normalized_name": "fsharp",
+      "synonyms": [
+        "f sharp",
+        "f# lang"
+      ]
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "React",
+      "normalized_name": "react",
+      "synonyms": [
+        "react.js",
+        "reactjs"
+      ]
+    },
+    {
+      "name": "Angular",
+      "normalized_name": "angular",
+      "synonyms": [
+        "angular.js",
+        "angular 2+"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "normalized_name": "vue",
+      "synonyms": [
+        "vue",
+        "vuejs",
+        "vue 3"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "normalized_name": "nextjs",
+      "synonyms": [
+        "next",
+        "next.js"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "normalized_name": "nodejs",
+      "synonyms": [
+        "node",
+        "node js"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "normalized_name": "expressjs",
+      "synonyms": [
+        "express",
+        "express.js"
+      ]
+    },
+    {
+      "name": "Django",
+      "normalized_name": "django",
+      "synonyms": [
+        "django framework"
+      ]
+    },
+    {
+      "name": "Flask",
+      "normalized_name": "flask",
+      "synonyms": [
+        "flask framework"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "normalized_name": "fastapi",
+      "synonyms": [
+        "fastapi framework"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "normalized_name": "spring_boot",
+      "synonyms": [
+        "springboot",
+        "spring"
+      ]
+    },
+    {
+      "name": ".NET Core",
+      "normalized_name": "dotnet_core",
+      "synonyms": [
+        ".net",
+        "asp.net core"
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "normalized_name": "ruby_on_rails",
+      "synonyms": [
+        "rails",
+        "ror"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "normalized_name": "laravel",
+      "synonyms": [
+        "laravel framework"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "normalized_name": "nestjs",
+      "synonyms": [
+        "nest.js",
+        "nest"
+      ]
+    },
+    {
+      "name": "Svelte",
+      "normalized_name": "svelte",
+      "synonyms": [
+        "sveltejs",
+        "sveltekit"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "normalized_name": "flutter",
+      "synonyms": [
+        "flutter sdk"
+      ]
+    },
+    {
+      "name": "React Native",
+      "normalized_name": "react_native",
+      "synonyms": [
+        "rn",
+        "react-native"
+      ]
+    },
+    {
+      "name": "PyTorch",
+      "normalized_name": "pytorch",
+      "synonyms": [
+        "torch"
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "normalized_name": "tensorflow",
+      "synonyms": [
+        "tf"
+      ]
+    },
+    {
+      "name": "Keras",
+      "normalized_name": "keras",
+      "synonyms": [
+        "tf.keras"
+      ]
+    },
+    {
+      "name": "Scikit-Learn",
+      "normalized_name": "scikit_learn",
+      "synonyms": [
+        "sklearn"
+      ]
+    },
+    {
+      "name": "Apache Spark",
+      "normalized_name": "apache_spark",
+      "synonyms": [
+        "spark",
+        "pyspark"
+      ]
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "normalized_name": "transformers",
+      "synonyms": [
+        "hf transformers",
+        "huggingface"
+      ]
+    },
+    {
+      "name": "LangChain",
+      "normalized_name": "langchain",
+      "synonyms": [
+        "lang chain"
+      ]
+    },
+    {
+      "name": "LlamaIndex",
+      "normalized_name": "llamaindex",
+      "synonyms": [
+        "llama index",
+        "gpt index"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "normalized_name": "tailwind_css",
+      "synonyms": [
+        "tailwind",
+        "tailwindcss"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "normalized_name": "bootstrap",
+      "synonyms": [
+        "twitter bootstrap",
+        "bootstrap 5"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "normalized_name": "graphql",
+      "synonyms": [
+        "gql",
+        "apollo graphql"
+      ]
+    },
+    {
+      "name": "gRPC",
+      "normalized_name": "grpc",
+      "synonyms": [
+        "grpc framework"
+      ]
+    },
+    {
+      "name": "ASP.NET MVC",
+      "normalized_name": "aspnet_mvc",
+      "synonyms": [
+        "asp.net",
+        "dotnet mvc"
+      ]
+    },
+    {
+      "name": "Quarkus",
+      "normalized_name": "quarkus",
+      "synonyms": [
+        "quarkus io"
+      ]
+    },
+    {
+      "name": "Micronaut",
+      "normalized_name": "micronaut",
+      "synonyms": [
+        "micronaut framework"
+      ]
+    }
+  ],
+  "cloud_devops": [
+    {
+      "name": "Amazon Web Services",
+      "normalized_name": "aws",
+      "synonyms": [
+        "aws",
+        "amazon cloud"
+      ]
+    },
+    {
+      "name": "Microsoft Azure",
+      "normalized_name": "azure",
+      "synonyms": [
+        "ms azure",
+        "azure cloud"
+      ]
+    },
+    {
+      "name": "Google Cloud Platform",
+      "normalized_name": "gcp",
+      "synonyms": [
+        "gcp",
+        "google cloud"
+      ]
+    },
+    {
+      "name": "Docker",
+      "normalized_name": "docker",
+      "synonyms": [
+        "docker containers",
+        "containerization"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "normalized_name": "kubernetes",
+      "synonyms": [
+        "k8s",
+        "kube"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "normalized_name": "terraform",
+      "synonyms": [
+        "tf",
+        "hashicorp terraform"
+      ]
+    },
+    {
+      "name": "Ansible",
+      "normalized_name": "ansible",
+      "synonyms": [
+        "red hat ansible"
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "normalized_name": "jenkins",
+      "synonyms": [
+        "jenkins ci"
+      ]
+    },
+    {
+      "name": "GitLab CI/CD",
+      "normalized_name": "gitlab_ci",
+      "synonyms": [
+        "gitlab pipelines"
+      ]
+    },
+    {
+      "name": "GitHub Actions",
+      "normalized_name": "github_actions",
+      "synonyms": [
+        "gha",
+        "gh actions"
+      ]
+    },
+    {
+      "name": "Helm",
+      "normalized_name": "helm",
+      "synonyms": [
+        "helm charts",
+        "k8s helm"
+      ]
+    },
+    {
+      "name": "Prometheus",
+      "normalized_name": "prometheus",
+      "synonyms": [
+        "prom"
+      ]
+    },
+    {
+      "name": "Grafana",
+      "normalized_name": "grafana",
+      "synonyms": [
+        "grafana dashboards"
+      ]
+    },
+    {
+      "name": "ArgoCD",
+      "normalized_name": "argocd",
+      "synonyms": [
+        "argo cd",
+        "gitops argo"
+      ]
+    },
+    {
+      "name": "CircleCI",
+      "normalized_name": "circleci",
+      "synonyms": [
+        "circle ci"
+      ]
+    },
+    {
+      "name": "CloudFormation",
+      "normalized_name": "cloudformation",
+      "synonyms": [
+        "aws cfn"
+      ]
+    },
+    {
+      "name": "Pulumi",
+      "normalized_name": "pulumi",
+      "synonyms": [
+        "pulumi iac"
+      ]
+    },
+    {
+      "name": "Vagrant",
+      "normalized_name": "vagrant",
+      "synonyms": [
+        "hashicorp vagrant"
+      ]
+    },
+    {
+      "name": "ELK Stack",
+      "normalized_name": "elk_stack",
+      "synonyms": [
+        "elastic stack",
+        "elasticsearch logstash kibana"
+      ]
+    },
+    {
+      "name": "Datadog",
+      "normalized_name": "datadog",
+      "synonyms": [
+        "ddog"
+      ]
+    },
+    {
+      "name": "Splunk",
+      "normalized_name": "splunk",
+      "synonyms": [
+        "splunk enterprise"
+      ]
+    },
+    {
+      "name": "AWS Lambda",
+      "normalized_name": "aws_lambda",
+      "synonyms": [
+        "serverless lambda",
+        "lambda functions"
+      ]
+    },
+    {
+      "name": "Azure DevOps",
+      "normalized_name": "azure_devops",
+      "synonyms": [
+        "vsts",
+        "ado"
+      ]
+    },
+    {
+      "name": "OpenShift",
+      "normalized_name": "openshift",
+      "synonyms": [
+        "red hat openshift",
+        "ocp"
+      ]
+    },
+    {
+      "name": "Istio",
+      "normalized_name": "istio",
+      "synonyms": [
+        "istio service mesh"
+      ]
+    },
+    {
+      "name": "Consul",
+      "normalized_name": "consul",
+      "synonyms": [
+        "hashicorp consul"
+      ]
+    },
+    {
+      "name": "Vault",
+      "normalized_name": "vault",
+      "synonyms": [
+        "hashicorp vault"
+      ]
+    },
+    {
+      "name": "SonarQube",
+      "normalized_name": "sonarqube",
+      "synonyms": [
+        "sonar"
+      ]
+    },
+    {
+      "name": "Linux Administration",
+      "normalized_name": "linux_admin",
+      "synonyms": [
+        "rhel",
+        "ubuntu server",
+        "sysadmin"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "normalized_name": "nginx",
+      "synonyms": [
+        "engine x",
+        "nginx reverse proxy"
+      ]
+    },
+    {
+      "name": "HAProxy",
+      "normalized_name": "haproxy",
+      "synonyms": [
+        "high availability proxy"
+      ]
+    }
+  ],
+  "databases": [
+    {
+      "name": "PostgreSQL",
+      "normalized_name": "postgresql",
+      "synonyms": [
+        "postgres",
+        "pgsql"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "normalized_name": "mysql",
+      "synonyms": [
+        "my sql"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "normalized_name": "mongodb",
+      "synonyms": [
+        "mongo",
+        "mongo db"
+      ]
+    },
+    {
+      "name": "Redis",
+      "normalized_name": "redis",
+      "synonyms": [
+        "redis cache"
+      ]
+    },
+    {
+      "name": "Oracle Database",
+      "normalized_name": "oracle_db",
+      "synonyms": [
+        "oracle rdbms",
+        "oracle 19c"
+      ]
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "normalized_name": "mssql",
+      "synonyms": [
+        "sql server",
+        "tsql"
+      ]
+    },
+    {
+      "name": "Cassandra",
+      "normalized_name": "cassandra",
+      "synonyms": [
+        "apache cassandra"
+      ]
+    },
+    {
+      "name": "Elasticsearch",
+      "normalized_name": "elasticsearch",
+      "synonyms": [
+        "es"
+      ]
+    },
+    {
+      "name": "DynamoDB",
+      "normalized_name": "dynamodb",
+      "synonyms": [
+        "aws dynamodb"
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "normalized_name": "snowflake",
+      "synonyms": [
+        "snowflake dw",
+        "snowflake data cloud"
+      ]
+    },
+    {
+      "name": "Google BigQuery",
+      "normalized_name": "bigquery",
+      "synonyms": [
+        "bq",
+        "google big query"
+      ]
+    },
+    {
+      "name": "Amazon Redshift",
+      "normalized_name": "redshift",
+      "synonyms": [
+        "aws redshift"
+      ]
+    },
+    {
+      "name": "SQLite",
+      "normalized_name": "sqlite",
+      "synonyms": [
+        "sqlite3"
+      ]
+    },
+    {
+      "name": "Neo4j",
+      "normalized_name": "neo4j",
+      "synonyms": [
+        "neo 4j",
+        "graph database"
+      ]
+    },
+    {
+      "name": "Couchbase",
+      "normalized_name": "couchbase",
+      "synonyms": [
+        "couch base"
+      ]
+    },
+    {
+      "name": "MariaDB",
+      "normalized_name": "mariadb",
+      "synonyms": [
+        "maria db"
+      ]
+    },
+    {
+      "name": "ClickHouse",
+      "normalized_name": "clickhouse",
+      "synonyms": [
+        "click house"
+      ]
+    },
+    {
+      "name": "Apache HBase",
+      "normalized_name": "hbase",
+      "synonyms": [
+        "hbase"
+      ]
+    },
+    {
+      "name": "CockroachDB",
+      "normalized_name": "cockroachdb",
+      "synonyms": [
+        "cockroach db"
+      ]
+    },
+    {
+      "name": "TimescaleDB",
+      "normalized_name": "timescaledb",
+      "synonyms": [
+        "timescale"
+      ]
+    },
+    {
+      "name": "Pinecone",
+      "normalized_name": "pinecone",
+      "synonyms": [
+        "pinecone vector db"
+      ]
+    },
+    {
+      "name": "Milvus",
+      "normalized_name": "milvus",
+      "synonyms": [
+        "milvus vector db"
+      ]
+    },
+    {
+      "name": "ChromaDB",
+      "normalized_name": "chromadb",
+      "synonyms": [
+        "chroma",
+        "chroma db"
+      ]
+    },
+    {
+      "name": "Weaviate",
+      "normalized_name": "weaviate",
+      "synonyms": [
+        "weaviate vector search"
+      ]
+    },
+    {
+      "name": "Qdrant",
+      "normalized_name": "qdrant",
+      "synonyms": [
+        "qdrant vector db"
+      ]
+    },
+    {
+      "name": "Firestore",
+      "normalized_name": "firestore",
+      "synonyms": [
+        "cloud firestore",
+        "firebase firestore"
+      ]
+    },
+    {
+      "name": "ScyllaDB",
+      "normalized_name": "scylladb",
+      "synonyms": [
+        "scylla"
+      ]
+    },
+    {
+      "name": "TiDB",
+      "normalized_name": "tidb",
+      "synonyms": [
+        "pingcap tidb"
+      ]
+    },
+    {
+      "name": "SingleStore",
+      "normalized_name": "singlestore",
+      "synonyms": [
+        "memsql"
+      ]
+    },
+    {
+      "name": "FaunaDB",
+      "normalized_name": "faunadb",
+      "synonyms": [
+        "fauna"
+      ]
+    }
+  ],
+  "ml_ai": [
+    {
+      "name": "Deep Learning",
+      "normalized_name": "deep_learning",
+      "synonyms": [
+        "dl",
+        "deep neural networks"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "normalized_name": "machine_learning",
+      "synonyms": [
+        "ml",
+        "statistical learning"
+      ]
+    },
+    {
+      "name": "Natural Language Processing",
+      "normalized_name": "nlp",
+      "synonyms": [
+        "computational linguistics",
+        "text processing"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "normalized_name": "computer_vision",
+      "synonyms": [
+        "cv",
+        "image processing"
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "normalized_name": "llms",
+      "synonyms": [
+        "llm",
+        "generative ai",
+        "foundation models"
+      ]
+    },
+    {
+      "name": "Reinforcement Learning",
+      "normalized_name": "reinforcement_learning",
+      "synonyms": [
+        "rl",
+        "deep rl"
+      ]
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "normalized_name": "rag",
+      "synonyms": [
+        "rag systems",
+        "retrieval augmented generation"
+      ]
+    },
+    {
+      "name": "Prompt Engineering",
+      "normalized_name": "prompt_engineering",
+      "synonyms": [
+        "prompt design",
+        "context conditioning"
+      ]
+    },
+    {
+      "name": "Model Fine-Tuning",
+      "normalized_name": "model_finetuning",
+      "synonyms": [
+        "peft",
+        "lora",
+        "qlora",
+        "sft"
+      ]
+    },
+    {
+      "name": "MLOps",
+      "normalized_name": "mlops",
+      "synonyms": [
+        "machine learning operations",
+        "ml lifecycle"
+      ]
+    },
+    {
+      "name": "Feature Engineering",
+      "normalized_name": "feature_engineering",
+      "synonyms": [
+        "feature extraction",
+        "feature transformation"
+      ]
+    },
+    {
+      "name": "Hyperparameter Optimization",
+      "normalized_name": "hyperparameter_optimization",
+      "synonyms": [
+        "hpo",
+        "optuna",
+        "hyperparameter tuning"
+      ]
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "normalized_name": "cnn",
+      "synonyms": [
+        "convnets",
+        "cnns"
+      ]
+    },
+    {
+      "name": "Recurrent Neural Networks",
+      "normalized_name": "rnn",
+      "synonyms": [
+        "rnns",
+        "lstm",
+        "gru"
+      ]
+    },
+    {
+      "name": "Transformer Architecture",
+      "normalized_name": "transformers_architecture",
+      "synonyms": [
+        "self-attention",
+        "bert",
+        "gpt architecture"
+      ]
+    },
+    {
+      "name": "OpenCV",
+      "normalized_name": "opencv",
+      "synonyms": [
+        "cv2",
+        "open source computer vision"
+      ]
+    },
+    {
+      "name": "Generative Adversarial Networks",
+      "normalized_name": "gan",
+      "synonyms": [
+        "gans",
+        "adversarial networks"
+      ]
+    },
+    {
+      "name": "Diffusion Models",
+      "normalized_name": "diffusion_models",
+      "synonyms": [
+        "stable diffusion",
+        "ddpm"
+      ]
+    },
+    {
+      "name": "Vector Embeddings",
+      "normalized_name": "vector_embeddings",
+      "synonyms": [
+        "dense representations",
+        "semantic embeddings"
+      ]
+    },
+    {
+      "name": "MLflow",
+      "normalized_name": "mlflow",
+      "synonyms": [
+        "ml flow"
+      ]
+    },
+    {
+      "name": "Weights & Biases",
+      "normalized_name": "wandb",
+      "synonyms": [
+        "wandb",
+        "w&b"
+      ]
+    },
+    {
+      "name": "Kubeflow",
+      "normalized_name": "kubeflow",
+      "synonyms": [
+        "k8s kubeflow"
+      ]
+    },
+    {
+      "name": "Triton Inference Server",
+      "normalized_name": "triton_inference_server",
+      "synonyms": [
+        "nvidia triton"
+      ]
+    },
+    {
+      "name": "vLLM",
+      "normalized_name": "vllm",
+      "synonyms": [
+        "vllm engine"
+      ]
+    },
+    {
+      "name": "Ollama",
+      "normalized_name": "ollama",
+      "synonyms": [
+        "ollama ai"
+      ]
+    },
+    {
+      "name": "ONNX",
+      "normalized_name": "onnx",
+      "synonyms": [
+        "open neural network exchange",
+        "onnx runtime"
+      ]
+    },
+    {
+      "name": "TensorRT",
+      "normalized_name": "tensorrt",
+      "synonyms": [
+        "nvidia tensorrt"
+      ]
+    },
+    {
+      "name": "Explainable AI",
+      "normalized_name": "xai",
+      "synonyms": [
+        "shap",
+        "lime",
+        "model interpretability"
+      ]
+    },
+    {
+      "name": "Speech Recognition",
+      "normalized_name": "speech_recognition",
+      "synonyms": [
+        "asr",
+        "whisper",
+        "speech-to-text"
+      ]
+    },
+    {
+      "name": "Time Series Forecasting",
+      "normalized_name": "time_series_forecasting",
+      "synonyms": [
+        "arima",
+        "prophet",
+        "lstm forecasting"
+      ]
+    }
+  ],
+  "data_engineering": [
+    {
+      "name": "Apache Kafka",
+      "normalized_name": "kafka",
+      "synonyms": [
+        "kafka streaming",
+        "event streaming"
+      ]
+    },
+    {
+      "name": "Apache Airflow",
+      "normalized_name": "airflow",
+      "synonyms": [
+        "workflow orchestration",
+        "mwaa"
+      ]
+    },
+    {
+      "name": "dbt",
+      "normalized_name": "dbt",
+      "synonyms": [
+        "data build tool",
+        "dbt core",
+        "dbt cloud"
+      ]
+    },
+    {
+      "name": "Apache Flink",
+      "normalized_name": "flink",
+      "synonyms": [
+        "apache flink stream"
+      ]
+    },
+    {
+      "name": "Delta Lake",
+      "normalized_name": "delta_lake",
+      "synonyms": [
+        "databricks delta",
+        "delta tables"
+      ]
+    },
+    {
+      "name": "Apache Iceberg",
+      "normalized_name": "iceberg",
+      "synonyms": [
+        "apache iceberg table format"
+      ]
+    },
+    {
+      "name": "Databricks",
+      "normalized_name": "databricks",
+      "synonyms": [
+        "lakehouse platform",
+        "unified analytics"
+      ]
+    },
+    {
+      "name": "ETL Pipeline Development",
+      "normalized_name": "etl",
+      "synonyms": [
+        "extract transform load",
+        "elt",
+        "data ingestion"
+      ]
+    },
+    {
+      "name": "Data Warehousing",
+      "normalized_name": "data_warehousing",
+      "synonyms": [
+        "dwh",
+        "enterprise data warehouse"
+      ]
+    },
+    {
+      "name": "Data Modeling",
+      "normalized_name": "data_modeling",
+      "synonyms": [
+        "star schema",
+        "snowflake schema",
+        "dimensional modeling"
+      ]
+    },
+    {
+      "name": "Apache Beam",
+      "normalized_name": "beam",
+      "synonyms": [
+        "google cloud dataflow",
+        "apache beam"
+      ]
+    },
+    {
+      "name": "Apache NiFi",
+      "normalized_name": "nifi",
+      "synonyms": [
+        "apache nifi"
+      ]
+    },
+    {
+      "name": "Presto",
+      "normalized_name": "presto",
+      "synonyms": [
+        "prestodb",
+        "trino"
+      ]
+    },
+    {
+      "name": "Apache Hive",
+      "normalized_name": "hive",
+      "synonyms": [
+        "apache hive metastore"
+      ]
+    },
+    {
+      "name": "AWS Glue",
+      "normalized_name": "aws_glue",
+      "synonyms": [
+        "glue catalog",
+        "glue etl"
+      ]
+    },
+    {
+      "name": "Azure Data Factory",
+      "normalized_name": "azure_data_factory",
+      "synonyms": [
+        "adf"
+      ]
+    },
+    {
+      "name": "Google Cloud Dataflow",
+      "normalized_name": "gcp_dataflow",
+      "synonyms": [
+        "cloud dataflow"
+      ]
+    },
+    {
+      "name": "Data Lake Architecture",
+      "normalized_name": "data_lake",
+      "synonyms": [
+        "s3 lake",
+        "adls gen2",
+        "gcs lakehouse"
+      ]
+    },
+    {
+      "name": "Change Data Capture",
+      "normalized_name": "cdc",
+      "synonyms": [
+        "debezium",
+        "cdc pipelines"
+      ]
+    },
+    {
+      "name": "Great Expectations",
+      "normalized_name": "great_expectations",
+      "synonyms": [
+        "gx",
+        "data quality testing"
+      ]
+    },
+    {
+      "name": "Apache Avro",
+      "normalized_name": "avro",
+      "synonyms": [
+        "avro schema"
+      ]
+    },
+    {
+      "name": "Apache Parquet",
+      "normalized_name": "parquet",
+      "synonyms": [
+        "columnar storage parquet"
+      ]
+    },
+    {
+      "name": "Airbyte",
+      "normalized_name": "airbyte",
+      "synonyms": [
+        "airbyte connectors"
+      ]
+    },
+    {
+      "name": "Fivetran",
+      "normalized_name": "fivetran",
+      "synonyms": [
+        "fivetran etl"
+      ]
+    },
+    {
+      "name": "Luigi",
+      "normalized_name": "luigi",
+      "synonyms": [
+        "spotify luigi"
+      ]
+    },
+    {
+      "name": "Prefect",
+      "normalized_name": "prefect",
+      "synonyms": [
+        "prefect io",
+        "prefect orchestrator"
+      ]
+    },
+    {
+      "name": "Dagster",
+      "normalized_name": "dagster",
+      "synonyms": [
+        "dagster io"
+      ]
+    },
+    {
+      "name": "Data Governance",
+      "normalized_name": "data_governance",
+      "synonyms": [
+        "data lineage",
+        "data catalog",
+        "collibra"
+      ]
+    },
+    {
+      "name": "Stream Processing",
+      "normalized_name": "stream_processing",
+      "synonyms": [
+        "real-time processing",
+        "event processing"
+      ]
+    },
+    {
+      "name": "Batch Processing",
+      "normalized_name": "batch_processing",
+      "synonyms": [
+        "batch computing",
+        "mapreduce"
+      ]
+    }
+  ],
+  "web_technologies": [
+    {
+      "name": "RESTful APIs",
+      "normalized_name": "rest_api",
+      "synonyms": [
+        "rest",
+        "restful web services"
+      ]
+    },
+    {
+      "name": "WebSocket",
+      "normalized_name": "websocket",
+      "synonyms": [
+        "ws",
+        "socket.io",
+        "web sockets"
+      ]
+    },
+    {
+      "name": "WebAssembly",
+      "normalized_name": "webassembly",
+      "synonyms": [
+        "wasm"
+      ]
+    },
+    {
+      "name": "Progressive Web Apps",
+      "normalized_name": "pwa",
+      "synonyms": [
+        "pwas",
+        "service workers"
+      ]
+    },
+    {
+      "name": "Webpack",
+      "normalized_name": "webpack",
+      "synonyms": [
+        "module bundler"
+      ]
+    },
+    {
+      "name": "Vite",
+      "normalized_name": "vite",
+      "synonyms": [
+        "vitejs"
+      ]
+    },
+    {
+      "name": "Babel",
+      "normalized_name": "babel",
+      "synonyms": [
+        "babeljs",
+        "js transpiler"
+      ]
+    },
+    {
+      "name": "OAuth 2.0",
+      "normalized_name": "oauth2",
+      "synonyms": [
+        "oauth",
+        "open authorization"
+      ]
+    },
+    {
+      "name": "OpenID Connect",
+      "normalized_name": "oidc",
+      "synonyms": [
+        "openid",
+        "oidc auth"
+      ]
+    },
+    {
+      "name": "JSON Web Tokens",
+      "normalized_name": "jwt",
+      "synonyms": [
+        "jwt tokens",
+        "bearer token"
+      ]
+    },
+    {
+      "name": "Content Delivery Networks",
+      "normalized_name": "cdn",
+      "synonyms": [
+        "cloudflare",
+        "cloudfront",
+        "fastly"
+      ]
+    },
+    {
+      "name": "Server-Side Rendering",
+      "normalized_name": "ssr",
+      "synonyms": [
+        "universal rendering",
+        "ssr hydration"
+      ]
+    },
+    {
+      "name": "Static Site Generation",
+      "normalized_name": "ssg",
+      "synonyms": [
+        "jamstack",
+        "ssg build"
+      ]
+    },
+    {
+      "name": "Micro-Frontends",
+      "normalized_name": "micro_frontends",
+      "synonyms": [
+        "mfe",
+        "module federation"
+      ]
+    },
+    {
+      "name": "WebRTC",
+      "normalized_name": "webrtc",
+      "synonyms": [
+        "real-time communication"
+      ]
+    },
+    {
+      "name": "Semantic HTML",
+      "normalized_name": "semantic_html",
+      "synonyms": [
+        "html semantics",
+        "accessible markup"
+      ]
+    },
+    {
+      "name": "Web Accessibility",
+      "normalized_name": "a11y",
+      "synonyms": [
+        "wcag",
+        "a11y",
+        "aria"
+      ]
+    },
+    {
+      "name": "Responsive Web Design",
+      "normalized_name": "responsive_design",
+      "synonyms": [
+        "mobile-first design",
+        "css media queries"
+      ]
+    },
+    {
+      "name": "SASS/SCSS",
+      "normalized_name": "sass_scss",
+      "synonyms": [
+        "sass",
+        "scss",
+        "css preprocessor"
+      ]
+    },
+    {
+      "name": "CSS Grid & Flexbox",
+      "normalized_name": "css_layout",
+      "synonyms": [
+        "flexbox",
+        "css grid"
+      ]
+    },
+    {
+      "name": "CORS",
+      "normalized_name": "cors",
+      "synonyms": [
+        "cross-origin resource sharing"
+      ]
+    },
+    {
+      "name": "HTTP/2 & HTTP/3",
+      "normalized_name": "http_protocols",
+      "synonyms": [
+        "http2",
+        "http3",
+        "quic"
+      ]
+    },
+    {
+      "name": "State Management",
+      "normalized_name": "state_management",
+      "synonyms": [
+        "redux",
+        "zustand",
+        "mobx",
+        "recoil"
+      ]
+    },
+    {
+      "name": "DOM Manipulation",
+      "normalized_name": "dom_manipulation",
+      "synonyms": [
+        "virtual dom",
+        "shadow dom"
+      ]
+    },
+    {
+      "name": "Search Engine Optimization",
+      "normalized_name": "seo",
+      "synonyms": [
+        "technical seo",
+        "meta tags"
+      ]
+    },
+    {
+      "name": "Web Performance Optimization",
+      "normalized_name": "web_performance",
+      "synonyms": [
+        "core web vitals",
+        "lighthouse",
+        "lazy loading"
+      ]
+    },
+    {
+      "name": "Browser DevTools",
+      "normalized_name": "browser_devtools",
+      "synonyms": [
+        "chrome devtools",
+        "firefox devtools"
+      ]
+    },
+    {
+      "name": "Cookies and Local Storage",
+      "normalized_name": "web_storage",
+      "synonyms": [
+        "indexeddb",
+        "sessionstorage",
+        "localstorage"
+      ]
+    },
+    {
+      "name": "Single Page Applications",
+      "normalized_name": "spa",
+      "synonyms": [
+        "spa architecture"
+      ]
+    },
+    {
+      "name": "Server-Sent Events",
+      "normalized_name": "sse",
+      "synonyms": [
+        "eventstream",
+        "server push"
+      ]
+    }
+  ],
+  "soft_skills": [
+    {
+      "name": "Problem Solving",
+      "normalized_name": "problem_solving",
+      "synonyms": [
+        "analytical thinking",
+        "troubleshooting"
+      ]
+    },
+    {
+      "name": "Technical Communication",
+      "normalized_name": "technical_communication",
+      "synonyms": [
+        "written communication",
+        "verbal communication"
+      ]
+    },
+    {
+      "name": "Agile & Scrum Methodologies",
+      "normalized_name": "agile_scrum",
+      "synonyms": [
+        "agile sprint planning",
+        "scrum ceremonies"
+      ]
+    },
+    {
+      "name": "Cross-Functional Collaboration",
+      "normalized_name": "collaboration",
+      "synonyms": [
+        "teamwork",
+        "cross-team synergy"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "normalized_name": "stakeholder_management",
+      "synonyms": [
+        "client interaction",
+        "executive communication"
+      ]
+    },
+    {
+      "name": "Critical Thinking",
+      "normalized_name": "critical_thinking",
+      "synonyms": [
+        "logical deduction",
+        "reasoning"
+      ]
+    },
+    {
+      "name": "Mentorship & Coaching",
+      "normalized_name": "mentorship",
+      "synonyms": [
+        "peer review guidance",
+        "talent coaching"
+      ]
+    },
+    {
+      "name": "Time Management",
+      "normalized_name": "time_management",
+      "synonyms": [
+        "prioritization",
+        "workload balancing"
+      ]
+    },
+    {
+      "name": "Adaptability",
+      "normalized_name": "adaptability",
+      "synonyms": [
+        "flexibility",
+        "resilience to change"
+      ]
+    },
+    {
+      "name": "Conflict Resolution",
+      "normalized_name": "conflict_resolution",
+      "synonyms": [
+        "negotiation",
+        "mediation"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "normalized_name": "leadership",
+      "synonyms": [
+        "team leadership",
+        "technical stewardship"
+      ]
+    },
+    {
+      "name": "Emotional Intelligence",
+      "normalized_name": "eq",
+      "synonyms": [
+        "empathy",
+        "interpersonal awareness"
+      ]
+    },
+    {
+      "name": "Presentation Skills",
+      "normalized_name": "presentation_skills",
+      "synonyms": [
+        "public speaking",
+        "demo presentations"
+      ]
+    },
+    {
+      "name": "Root Cause Analysis",
+      "normalized_name": "root_cause_analysis",
+      "synonyms": [
+        "rca",
+        "post-mortem analysis"
+      ]
+    },
+    {
+      "name": "Product Mindset",
+      "normalized_name": "product_mindset",
+      "synonyms": [
+        "user-centricity",
+        "business value alignment"
+      ]
+    },
+    {
+      "name": "Code Review Discipline",
+      "normalized_name": "code_review_etiquette",
+      "synonyms": [
+        "constructive feedback",
+        "pr reviews"
+      ]
+    },
+    {
+      "name": "Decision Making",
+      "normalized_name": "decision_making",
+      "synonyms": [
+        "strategic judgment",
+        "trade-off analysis"
+      ]
+    },
+    {
+      "name": "Active Listening",
+      "normalized_name": "active_listening",
+      "synonyms": [
+        "attentive listening",
+        "comprehension"
+      ]
+    },
+    {
+      "name": "Negotiation",
+      "normalized_name": "negotiation",
+      "synonyms": [
+        "persuasion",
+        "compromise"
+      ]
+    },
+    {
+      "name": "Strategic Planning",
+      "normalized_name": "strategic_planning",
+      "synonyms": [
+        "roadmap planning",
+        "vision setting"
+      ]
+    },
+    {
+      "name": "Continuous Learning",
+      "normalized_name": "continuous_learning",
+      "synonyms": [
+        "growth mindset",
+        "self-directed study"
+      ]
+    },
+    {
+      "name": "Attention to Detail",
+      "normalized_name": "attention_to_detail",
+      "synonyms": [
+        "precision",
+        "thoroughness"
+      ]
+    },
+    {
+      "name": "Stress Tolerance",
+      "normalized_name": "stress_tolerance",
+      "synonyms": [
+        "composure under pressure",
+        "crisis management"
+      ]
+    },
+    {
+      "name": "Risk Management",
+      "normalized_name": "risk_management",
+      "synonyms": [
+        "risk assessment",
+        "mitigation planning"
+      ]
+    },
+    {
+      "name": "Customer Empathy",
+      "normalized_name": "customer_empathy",
+      "synonyms": [
+        "user advocacy",
+        "client understanding"
+      ]
+    },
+    {
+      "name": "Technical Writing",
+      "normalized_name": "technical_writing",
+      "synonyms": [
+        "documentation",
+        "spec writing",
+        "rfc authoring"
+      ]
+    },
+    {
+      "name": "Ownership",
+      "normalized_name": "ownership",
+      "synonyms": [
+        "accountability",
+        "proactivity"
+      ]
+    },
+    {
+      "name": "Innovation Mindset",
+      "normalized_name": "innovation_mindset",
+      "synonyms": [
+        "creative thinking",
+        "out-of-box thinking"
+      ]
+    },
+    {
+      "name": "Cultural Sensitivity",
+      "normalized_name": "cultural_sensitivity",
+      "synonyms": [
+        "inclusive collaboration",
+        "global mindset"
+      ]
+    },
+    {
+      "name": "Change Management",
+      "normalized_name": "change_management",
+      "synonyms": [
+        "organizational transition",
+        "process adoption"
+      ]
+    }
+  ],
+  "tools_and_platforms": [
+    {
+      "name": "Git",
+      "normalized_name": "git",
+      "synonyms": [
+        "git vcs",
+        "version control"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "normalized_name": "github",
+      "synonyms": [
+        "gh"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "normalized_name": "gitlab",
+      "synonyms": [
+        "gl"
+      ]
+    },
+    {
+      "name": "Bitbucket",
+      "normalized_name": "bitbucket",
+      "synonyms": [
+        "atlassian bitbucket"
+      ]
+    },
+    {
+      "name": "Jira",
+      "normalized_name": "jira",
+      "synonyms": [
+        "jira software",
+        "atlassian jira"
+      ]
+    },
+    {
+      "name": "Confluence",
+      "normalized_name": "confluence",
+      "synonyms": [
+        "atlassian confluence"
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "normalized_name": "vscode",
+      "synonyms": [
+        "vs code",
+        "code editor"
+      ]
+    },
+    {
+      "name": "IntelliJ IDEA",
+      "normalized_name": "intellij",
+      "synonyms": [
+        "intellij idea",
+        "jetbrains intellij"
+      ]
+    },
+    {
+      "name": "Postman",
+      "normalized_name": "postman",
+      "synonyms": [
+        "postman api platform"
+      ]
+    },
+    {
+      "name": "Insomnia",
+      "normalized_name": "insomnia",
+      "synonyms": [
+        "kong insomnia"
+      ]
+    },
+    {
+      "name": "Swagger / OpenAPI",
+      "normalized_name": "swagger",
+      "synonyms": [
+        "openapi",
+        "swagger ui"
+      ]
+    },
+    {
+      "name": "Figma",
+      "normalized_name": "figma",
+      "synonyms": [
+        "figma design tool"
+      ]
+    },
+    {
+      "name": "Slack",
+      "normalized_name": "slack",
+      "synonyms": [
+        "slack workspace"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "normalized_name": "tableau",
+      "synonyms": [
+        "tableau desktop",
+        "tableau server"
+      ]
+    },
+    {
+      "name": "Power BI",
+      "normalized_name": "powerbi",
+      "synonyms": [
+        "power bi",
+        "ms power bi"
+      ]
+    },
+    {
+      "name": "Jupyter Notebook",
+      "normalized_name": "jupyter",
+      "synonyms": [
+        "jupyter lab",
+        "ipython"
+      ]
+    },
+    {
+      "name": "Docker Desktop",
+      "normalized_name": "docker_desktop",
+      "synonyms": [
+        "docker gui"
+      ]
+    },
+    {
+      "name": "Kubectl",
+      "normalized_name": "kubectl",
+      "synonyms": [
+        "k8s cli",
+        "kube control"
+      ]
+    },
+    {
+      "name": "Wireshark",
+      "normalized_name": "wireshark",
+      "synonyms": [
+        "packet analyzer"
+      ]
+    },
+    {
+      "name": "Sentry",
+      "normalized_name": "sentry",
+      "synonyms": [
+        "sentry error tracking"
+      ]
+    },
+    {
+      "name": "New Relic",
+      "normalized_name": "new_relic",
+      "synonyms": [
+        "newrelic apm"
+      ]
+    },
+    {
+      "name": "Notion",
+      "normalized_name": "notion",
+      "synonyms": [
+        "notion workspace"
+      ]
+    },
+    {
+      "name": "Miro",
+      "normalized_name": "miro",
+      "synonyms": [
+        "miro whiteboard"
+      ]
+    },
+    {
+      "name": "Apache Maven",
+      "normalized_name": "maven",
+      "synonyms": [
+        "mvn"
+      ]
+    },
+    {
+      "name": "Gradle",
+      "normalized_name": "gradle",
+      "synonyms": [
+        "gradle build tool"
+      ]
+    },
+    {
+      "name": "npm",
+      "normalized_name": "npm",
+      "synonyms": [
+        "node package manager"
+      ]
+    },
+    {
+      "name": "Yarn",
+      "normalized_name": "yarn",
+      "synonyms": [
+        "yarn package manager"
+      ]
+    },
+    {
+      "name": "pnpm",
+      "normalized_name": "pnpm",
+      "synonyms": [
+        "fast npm"
+      ]
+    },
+    {
+      "name": "SonarLint",
+      "normalized_name": "sonarlint",
+      "synonyms": [
+        "sonar ide linting"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "normalized_name": "vercel",
+      "synonyms": [
+        "vercel deployment platform"
+      ]
+    }
+  ],
+  "cybersecurity": [
+    {
+      "name": "Network Security",
+      "normalized_name": "network_security",
+      "synonyms": [
+        "firewalls",
+        "vpn",
+        "ids/ips"
+      ]
+    },
+    {
+      "name": "Penetration Testing",
+      "normalized_name": "penetration_testing",
+      "synonyms": [
+        "pen testing",
+        "ethical hacking",
+        "red teaming"
+      ]
+    },
+    {
+      "name": "Vulnerability Assessment",
+      "normalized_name": "vulnerability_assessment",
+      "synonyms": [
+        "vuln scan",
+        "nessus scan"
+      ]
+    },
+    {
+      "name": "Identity and Access Management",
+      "normalized_name": "iam",
+      "synonyms": [
+        "iam",
+        "access control",
+        "rbac"
+      ]
+    },
+    {
+      "name": "Cryptography & Encryption",
+      "normalized_name": "cryptography",
+      "synonyms": [
+        "pki",
+        "tls/ssl",
+        "symmetric encryption",
+        "rsa",
+        "aes"
+      ]
+    },
+    {
+      "name": "Security Information and Event Management",
+      "normalized_name": "siem",
+      "synonyms": [
+        "siem",
+        "splunk siem",
+        "qradar"
+      ]
+    },
+    {
+      "name": "Incident Response",
+      "normalized_name": "incident_response",
+      "synonyms": [
+        "ir",
+        "cyber incident handling",
+        "soc response"
+      ]
+    },
+    {
+      "name": "Web Application Security",
+      "normalized_name": "web_security",
+      "synonyms": [
+        "owasp top 10",
+        "appsec"
+      ]
+    },
+    {
+      "name": "Zero Trust Architecture",
+      "normalized_name": "zero_trust",
+      "synonyms": [
+        "zta",
+        "zero trust network access"
+      ]
+    },
+    {
+      "name": "Cloud Security",
+      "normalized_name": "cloud_security",
+      "synonyms": [
+        "cspm",
+        "cwpp",
+        "cloud hardening"
+      ]
+    },
+    {
+      "name": "Threat Modeling",
+      "normalized_name": "threat_modeling",
+      "synonyms": [
+        "stride",
+        "dread",
+        "threat assessment"
+      ]
+    },
+    {
+      "name": "Endpoint Detection and Response",
+      "normalized_name": "edr",
+      "synonyms": [
+        "edr",
+        "crowdstrike",
+        "sentinelone"
+      ]
+    },
+    {
+      "name": "DevSecOps",
+      "normalized_name": "devsecops",
+      "synonyms": [
+        "shift left security",
+        "security pipeline"
+      ]
+    },
+    {
+      "name": "Security Auditing & Compliance",
+      "normalized_name": "compliance_audit",
+      "synonyms": [
+        "soc2",
+        "iso 27001",
+        "pci-dss",
+        "gdpr",
+        "hipaa"
+      ]
+    },
+    {
+      "name": "Malware Analysis",
+      "normalized_name": "malware_analysis",
+      "synonyms": [
+        "reverse engineering",
+        "dynamic analysis"
+      ]
+    },
+    {
+      "name": "Digital Forensics",
+      "normalized_name": "digital_forensics",
+      "synonyms": [
+        "dfir",
+        "evidence acquisition"
+      ]
+    },
+    {
+      "name": "Burp Suite",
+      "normalized_name": "burp_suite",
+      "synonyms": [
+        "burp",
+        "portswigger burp"
+      ]
+    },
+    {
+      "name": "OWASP ZAP",
+      "normalized_name": "owasp_zap",
+      "synonyms": [
+        "zed attack proxy"
+      ]
+    },
+    {
+      "name": "Nmap",
+      "normalized_name": "nmap",
+      "synonyms": [
+        "network mapper",
+        "port scanner"
+      ]
+    },
+    {
+      "name": "Metasploit",
+      "normalized_name": "metasploit",
+      "synonyms": [
+        "metasploit framework"
+      ]
+    },
+    {
+      "name": "SAST & DAST",
+      "normalized_name": "sast_dast",
+      "synonyms": [
+        "static code analysis",
+        "dynamic security testing"
+      ]
+    },
+    {
+      "name": "Software Supply Chain Security",
+      "normalized_name": "supply_chain_security",
+      "synonyms": [
+        "sbom",
+        "dependency check"
+      ]
+    },
+    {
+      "name": "Data Loss Prevention",
+      "normalized_name": "dlp",
+      "synonyms": [
+        "dlp solutions"
+      ]
+    },
+    {
+      "name": "Social Engineering Defense",
+      "normalized_name": "social_engineering_defense",
+      "synonyms": [
+        "phishing simulation",
+        "security awareness"
+      ]
+    },
+    {
+      "name": "Privileged Access Management",
+      "normalized_name": "pam",
+      "synonyms": [
+        "cyberark",
+        "pam solutions"
+      ]
+    },
+    {
+      "name": "Security Automation & SOAR",
+      "normalized_name": "soar",
+      "synonyms": [
+        "security orchestration automation response"
+      ]
+    },
+    {
+      "name": "Bug Bounty Hunting",
+      "normalized_name": "bug_bounty",
+      "synonyms": [
+        "hackerone",
+        "bugcrowd"
+      ]
+    },
+    {
+      "name": "Security Information Governance",
+      "normalized_name": "security_governance",
+      "synonyms": [
+        "infosec policies",
+        "grc"
+      ]
+    },
+    {
+      "name": "DDoS Mitigation",
+      "normalized_name": "ddos_mitigation",
+      "synonyms": [
+        "ddos protection",
+        "rate limiting"
+      ]
+    },
+    {
+      "name": "Container & K8s Security",
+      "normalized_name": "container_security",
+      "synonyms": [
+        "trivy",
+        "falco",
+        "kube-bench"
+      ]
+    }
+  ]
+}

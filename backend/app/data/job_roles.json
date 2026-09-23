@@ -1,0 +1,1338 @@
+[
+  {
+    "title": "Full Stack Engineer",
+    "department": "Engineering",
+    "experience_level": "Mid-Senior Level",
+    "required_skills": [
+      {
+        "skill": "JavaScript",
+        "weight": 1.9
+      },
+      {
+        "skill": "TypeScript",
+        "weight": 1.8
+      },
+      {
+        "skill": "React",
+        "weight": 1.8
+      },
+      {
+        "skill": "Node.js",
+        "weight": 1.7
+      },
+      {
+        "skill": "PostgreSQL",
+        "weight": 1.6
+      },
+      {
+        "skill": "RESTful APIs",
+        "weight": 1.7
+      },
+      {
+        "skill": "Git",
+        "weight": 1.5
+      },
+      {
+        "skill": "Problem Solving",
+        "weight": 1.6
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Docker",
+        "weight": 0.9
+      },
+      {
+        "skill": "Amazon Web Services",
+        "weight": 0.8
+      },
+      {
+        "skill": "GraphQL",
+        "weight": 0.7
+      },
+      {
+        "skill": "Tailwind CSS",
+        "weight": 0.6
+      },
+      {
+        "skill": "Redis",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or M.S. in Computer Science, Software Engineering, or related discipline",
+    "minimum_experience_years": 3,
+    "sample_job_description": "We are seeking a talented and versatile Full Stack Engineer to join our core product engineering team. In this position, you will take end-to-end ownership of major product features, from inception and architectural design through production deployment and performance monitoring. You will collaborate closely with cross-functional partners including UI/UX product designers, product managers, quality assurance analysts, and site reliability engineers to build performant, delightful, and highly accessible web applications. On the client side, you will craft responsive, accessible, and intuitive front-end experiences using modern JavaScript/TypeScript, React, Next.js, and clean CSS architectures. On the server side, you will architect resilient RESTful and GraphQL APIs utilizing Node.js, Express, and distributed microservices backed by relational and NoSQL databases like PostgreSQL and Redis. You will establish robust automated testing pipelines spanning unit, integration, and end-to-end tests to guarantee high system stability and zero-regression deployments across all staging and production environments. Additionally, you will proactively profile database query performance, debug complex concurrency anomalies across distributed service boundaries, and maintain comprehensive system documentation. The ideal candidate demonstrates disciplined software craftsmanship, active code review participation, thoughtful technical mentorship to junior developers, and an innate curiosity to continuously evaluate and integrate emerging web technologies. If you thrive in an agile environment that prizes fast feedback loops, clear communication, collaborative problem-solving, and customer-first engineering decisions, we would love to welcome you aboard our fast-growing engineering family.",
+    "recommended_certifications": [
+      "AWS Certified Developer - Associate",
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "learning_path": [
+      "Establish solid programming fundamentals in modern JavaScript, TypeScript, and software design patterns.",
+      "Develop modern, accessible single-page web applications utilizing React, state management, and Tailwind CSS.",
+      "Construct robust backend APIs with Node.js, Express, middleware authentication, and relational data modeling in PostgreSQL.",
+      "Master containerization workflows with Docker and configure continuous deployment via GitHub Actions.",
+      "Implement caching, distributed background workers, database indexing, and observability across cloud services."
+    ],
+    "sample_projects": [
+      {
+        "title": "Collaborative Real-Time Canvas Workspace",
+        "tech_stack": [
+          "TypeScript",
+          "React",
+          "Node.js",
+          "WebSocket",
+          "Redis",
+          "PostgreSQL"
+        ],
+        "description": "Engineered a real-time collaborative document editor featuring operational transformation, persistent database synchronization, role-based workspace permissions, and live user presence indicators."
+      },
+      {
+        "title": "Enterprise B2B E-Commerce Marketplace",
+        "tech_stack": [
+          "Next.js",
+          "Express.js",
+          "PostgreSQL",
+          "Stripe API",
+          "Docker",
+          "Tailwind CSS"
+        ],
+        "description": "Developed a full-stack multi-tenant storefront with automated catalog indexing, high-concurrency order checkout flows, webhook-driven inventory updates, and responsive seller management dashboards."
+      },
+      {
+        "title": "Interactive IoT Telemetry Dashboard",
+        "tech_stack": [
+          "React",
+          "TypeScript",
+          "Node.js",
+          "GraphQL",
+          "TimescaleDB",
+          "Chart.js"
+        ],
+        "description": "Constructed an interactive telemetry dashboard aggregating high-frequency IoT device metrics with custom date-range visualizations, alerting rules, and exportable audit reports."
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "department": "Artificial Intelligence & Data",
+    "experience_level": "Senior Level",
+    "required_skills": [
+      {
+        "skill": "Python",
+        "weight": 2.0
+      },
+      {
+        "skill": "PyTorch",
+        "weight": 1.9
+      },
+      {
+        "skill": "Machine Learning",
+        "weight": 1.9
+      },
+      {
+        "skill": "Deep Learning",
+        "weight": 1.8
+      },
+      {
+        "skill": "MLOps",
+        "weight": 1.7
+      },
+      {
+        "skill": "Docker",
+        "weight": 1.6
+      },
+      {
+        "skill": "Feature Engineering",
+        "weight": 1.5
+      },
+      {
+        "skill": "Git",
+        "weight": 1.4
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Kubeflow",
+        "weight": 0.9
+      },
+      {
+        "skill": "TensorRT",
+        "weight": 0.8
+      },
+      {
+        "skill": "Apache Spark",
+        "weight": 0.8
+      },
+      {
+        "skill": "MLflow",
+        "weight": 0.8
+      },
+      {
+        "skill": "Triton Inference Server",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or M.S. in Artificial Intelligence, Computer Science, Data Science, or related STEM field",
+    "minimum_experience_years": 4,
+    "sample_job_description": "We are seeking an experienced Machine Learning Engineer to design, scale, and operationalize high-impact machine learning systems powering our next-generation intelligent platform. In this role, you will bridge the divide between theoretical data science prototypes and highly reliable, low-latency production inference services handling millions of daily customer requests. You will be responsible for building automated feature extraction pipelines, training deep neural networks using PyTorch and distributed computing clusters, and evaluating statistical model performance against stringent business metrics. You will collaborate intimately with data engineers to structure reliable ingestion streams and with platform engineers to package and deploy models into containerized Kubernetes clusters. A core aspect of your responsibilities will involve implementing state-of-the-art MLOps workflows, including automated model drift detection, continuous integration/continuous training (CI/CT) pipelines, and experiment tracking with MLflow and Weights & Biases. Furthermore, you will optimize inference latencies through graph quantization, TensorRT acceleration, model pruning, and Triton Inference Server architectures. You will also conduct extensive load testing to guarantee high availability during peak traffic spikes and implement guardrails for responsible AI governance. The ideal candidate brings deep mathematical grounding in linear algebra and probabilistic models, coupled with exceptional production software engineering standards and clean code discipline. You should enjoy dissecting real-world edge cases, driving root cause analyses on degraded predictions, and keeping abreast of rapid advancements across modern foundation models, vector search, and deep learning frameworks.",
+    "recommended_certifications": [
+      "AWS Certified Machine Learning - Specialty",
+      "Google Professional Machine Learning Engineer"
+    ],
+    "learning_path": [
+      "Master advanced mathematical foundations including multivariable calculus, probability theory, linear algebra, and statistical inference.",
+      "Gain expertise in deep learning model architectures using PyTorch and Scikit-Learn for tabular, vision, and sequence tasks.",
+      "Implement production-grade model packaging, containerization with Docker, and automated serving via FastAPI and Triton.",
+      "Build automated end-to-end MLOps pipelines using MLflow, Kubeflow, and DVC for data/model versioning and artifact tracking.",
+      "Master distributed model training across multi-GPU environments and optimize inference throughput via ONNX and TensorRT."
+    ],
+    "sample_projects": [
+      {
+        "title": "Real-Time Fraud Detection Inference Service",
+        "tech_stack": [
+          "Python",
+          "PyTorch",
+          "FastAPI",
+          "Redis",
+          "Docker",
+          "Kafka"
+        ],
+        "description": "Architected a low-latency fraud classification engine that evaluates financial transactions in sub-15ms, featuring real-time feature retrieval and automated drift detection."
+      },
+      {
+        "title": "End-to-End MLOps Training and Deployment Platform",
+        "tech_stack": [
+          "Kubeflow",
+          "MLflow",
+          "Kubernetes",
+          "AWS S3",
+          "Python",
+          "GitHub Actions"
+        ],
+        "description": "Constructed an automated continuous training pipeline that monitors production prediction quality, triggers automated retraining on data shifts, and safely canary-deploys updated weights."
+      },
+      {
+        "title": "High-Throughput Vision Model Quantization Pipeline",
+        "tech_stack": [
+          "PyTorch",
+          "TensorRT",
+          "ONNX",
+          "Triton Inference Server",
+          "Docker"
+        ],
+        "description": "Optimized and deployed computer vision segmentation networks via INT8 quantization, slashing GPU memory consumption by 60% while doubling server throughput."
+      }
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "department": "Analytics & Research",
+    "experience_level": "Mid-Senior Level",
+    "required_skills": [
+      {
+        "skill": "Python",
+        "weight": 1.9
+      },
+      {
+        "skill": "SQL",
+        "weight": 1.9
+      },
+      {
+        "skill": "Machine Learning",
+        "weight": 1.8
+      },
+      {
+        "skill": "Scikit-Learn",
+        "weight": 1.7
+      },
+      {
+        "skill": "Problem Solving",
+        "weight": 1.6
+      },
+      {
+        "skill": "Critical Thinking",
+        "weight": 1.5
+      },
+      {
+        "skill": "Time Series Forecasting",
+        "weight": 1.4
+      },
+      {
+        "skill": "Technical Communication",
+        "weight": 1.5
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "R",
+        "weight": 0.8
+      },
+      {
+        "skill": "Tableau",
+        "weight": 0.8
+      },
+      {
+        "skill": "Apache Spark",
+        "weight": 0.8
+      },
+      {
+        "skill": "Snowflake",
+        "weight": 0.7
+      },
+      {
+        "skill": "Explainable AI",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., M.S., or Ph.D. in Data Science, Statistics, Mathematics, Computer Science, or quantitative discipline",
+    "minimum_experience_years": 3,
+    "sample_job_description": "We are looking for an inquisitive and impact-driven Data Scientist to join our advanced analytics group and drive strategic innovation. In this position, you will translate complex, ambiguous business problems into rigorous statistical formulations and actionable algorithmic solutions that deliver tangible enterprise value. You will query, clean, and enrich massive volumes of multi-structured transactional and behavioral data from cloud data warehouses like Snowflake and BigQuery using advanced SQL and Python. You will design, build, and validate predictive statistical models, clustering algorithms, and customer lifetime value frameworks using Scikit-Learn, XGBoost, and statsmodels. A critical facet of your day-to-day work involves conceptualizing and evaluating controlled randomized online experiments (A/B testing), determining statistical sample sizing, verifying statistical significance, and mitigating confounding factors across variable user cohorts. You will partner directly with product leaders, marketing stakeholders, and executive management to present synthesized analytical insights, strategic hypotheses, and clear visual narratives through Tableau and executive reports. Additionally, you will implement explainable AI techniques like SHAP and LIME to interpret complex model decisions for regulatory compliance and business transparency. The ideal candidate possesses exceptional intuition for exploratory data analysis, a strong theoretical grounding in hypothesis testing and causal inference, and strong commercial business acumen. You should be energized by discovering non-obvious patterns within noisy datasets and communicating complex statistical concepts to non-technical stakeholders in a persuasive, polished, and accessible manner.",
+    "recommended_certifications": [
+      "IBM Data Science Professional Certificate",
+      "Microsoft Certified: Azure Data Scientist Associate"
+    ],
+    "learning_path": [
+      "Deepen expertise in probability distributions, multivariate statistics, hypothesis testing, and experimental design.",
+      "Master advanced data wrangling and exploration in Python using Pandas, NumPy, and statistical plotting libraries.",
+      "Build predictive machine learning pipelines for classification, regression, clustering, and dimensional reduction with Scikit-Learn.",
+      "Design, execute, and analyze rigorous A/B testing experiments with causal inference frameworks and variance reduction techniques.",
+      "Construct compelling executive reporting narratives and interactive visual dashboards using Tableau and narrative storytelling."
+    ],
+    "sample_projects": [
+      {
+        "title": "Customer Churn Prediction and Retention Engine",
+        "tech_stack": [
+          "Python",
+          "Scikit-Learn",
+          "SQL",
+          "Snowflake",
+          "SHAP",
+          "Tableau"
+        ],
+        "description": "Developed an ensemble classification model predicting enterprise customer churn 60 days in advance, integrating SHAP value explanations to recommend targeted retention incentives."
+      },
+      {
+        "title": "Multi-Market Demand and Revenue Forecasting System",
+        "tech_stack": [
+          "Python",
+          "Statsmodels",
+          "Prophet",
+          "PostgreSQL",
+          "Pandas"
+        ],
+        "description": "Constructed hierarchical time-series forecasting models accounting for seasonality and macro indicators, reducing inventory misallocation errors by 28% across retail regions."
+      },
+      {
+        "title": "Automated A/B Testing Evaluation Framework",
+        "tech_stack": [
+          "Python",
+          "SQL",
+          "Jupyter",
+          "Bootstrap Testing",
+          "FastAPI"
+        ],
+        "description": "Created a standardized experimentation toolkit automating sample sizing, sequential testing checks, and Bayesian posterior calculations for cross-functional product teams."
+      }
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "department": "Infrastructure & Operations",
+    "experience_level": "Mid-Senior Level",
+    "required_skills": [
+      {
+        "skill": "Linux Administration",
+        "weight": 1.9
+      },
+      {
+        "skill": "Kubernetes",
+        "weight": 1.9
+      },
+      {
+        "skill": "Docker",
+        "weight": 1.8
+      },
+      {
+        "skill": "Terraform",
+        "weight": 1.8
+      },
+      {
+        "skill": "Amazon Web Services",
+        "weight": 1.7
+      },
+      {
+        "skill": "GitHub Actions",
+        "weight": 1.6
+      },
+      {
+        "skill": "Shell Scripting",
+        "weight": 1.5
+      },
+      {
+        "skill": "Problem Solving",
+        "weight": 1.5
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Ansible",
+        "weight": 0.8
+      },
+      {
+        "skill": "ArgoCD",
+        "weight": 0.9
+      },
+      {
+        "skill": "Prometheus",
+        "weight": 0.8
+      },
+      {
+        "skill": "Grafana",
+        "weight": 0.8
+      },
+      {
+        "skill": "Vault",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or equivalent degree in Computer Science, Systems Engineering, or Information Technology",
+    "minimum_experience_years": 4,
+    "sample_job_description": "We are seeking an accomplished DevOps Engineer to strengthen our cloud infrastructure engineering division and accelerate our continuous delivery mission. In this role, you will be instrumental in scaling, hardening, and automating our multi-region cloud runtime environments across AWS and hybrid infrastructure. You will spearhead our Infrastructure as Code (IaC) initiatives utilizing Terraform and Helm, ensuring repeatable, immutable, and version-controlled provisioning of all compute, networking, and storage components. You will collaborate closely with software engineering teams to streamline Continuous Integration and Continuous Deployment (CI/CD) pipelines in GitHub Actions and GitLab CI, reducing build times and fostering zero-downtime progressive deployment strategies. A core focus of your duties includes administering production-grade Kubernetes (EKS) clusters, tuning cluster autoscalers, configuring ingress controllers, managing persistent storage volumes, and embedding GitOps delivery workflows via ArgoCD. Additionally, you will drive operational observability by deploying and managing Prometheus, Grafana, Alertmanager, and distributed tracing stacks to guarantee rapid incident detection and sub-minute resolution. The ideal candidate exhibits a strong systems administration mindset, treats operations as a software problem, and maintains rigorous security discipline regarding secret management, least-privilege IAM policies, and vulnerability remediation. If you are excited about building highly resilient platforms that empower hundreds of developers to ship code securely, predictably, and autonomously multiple times per day, this is the ideal opportunity for your career.",
+    "recommended_certifications": [
+      "Certified Kubernetes Administrator (CKA)",
+      "AWS Certified Solutions Architect - Associate",
+      "HashiCorp Certified: Terraform Associate"
+    ],
+    "learning_path": [
+      "Master advanced Linux operating system internals, networking protocols (TCP/IP, DNS, TLS), and Bash shell scripting.",
+      "Containerize complex multi-service architectures with Docker and implement robust local orchestration setups.",
+      "Architect and manage production Kubernetes clusters, mastering pod networking, storage classes, and Helm package management.",
+      "Provision automated cloud infrastructure using Terraform with reusable modular patterns and remote state locking.",
+      "Implement enterprise GitOps delivery pipelines using ArgoCD, paired with comprehensive Prometheus/Grafana observability."
+    ],
+    "sample_projects": [
+      {
+        "title": "Automated Multi-Region Kubernetes GitOps Platform",
+        "tech_stack": [
+          "Terraform",
+          "Kubernetes",
+          "AWS EKS",
+          "ArgoCD",
+          "Helm",
+          "GitHub Actions"
+        ],
+        "description": "Architected complete Infrastructure-as-Code scripts provisioning redundant EKS clusters across two AWS regions, synchronized continuously with GitOps repositories via ArgoCD."
+      },
+      {
+        "title": "Zero-Downtime Microservices CI/CD Delivery Pipeline",
+        "tech_stack": [
+          "GitHub Actions",
+          "Docker",
+          "AWS ECR",
+          "Helm",
+          "SonarQube"
+        ],
+        "description": "Constructed an automated pipeline supporting automated linting, vulnerability scanning, ephemeral preview environments, and blue-green deployments for 20+ microservices."
+      },
+      {
+        "title": "Enterprise Cloud Telemetry and Alerting Mesh",
+        "tech_stack": [
+          "Prometheus",
+          "Grafana",
+          "Alertmanager",
+          "Fluentbit",
+          "OpenTelemetry"
+        ],
+        "description": "Deployed a centralized metric aggregation and log forwarding cluster handling 50M+ daily events with SLO-based alerting dashboards integrated directly into PagerDuty."
+      }
+    ]
+  },
+  {
+    "title": "Cloud Architect",
+    "department": "Enterprise Architecture",
+    "experience_level": "Lead / Principal Level",
+    "required_skills": [
+      {
+        "skill": "Amazon Web Services",
+        "weight": 2.0
+      },
+      {
+        "skill": "Cloud Security",
+        "weight": 1.9
+      },
+      {
+        "skill": "Terraform",
+        "weight": 1.8
+      },
+      {
+        "skill": "Zero Trust Architecture",
+        "weight": 1.7
+      },
+      {
+        "skill": "Kubernetes",
+        "weight": 1.6
+      },
+      {
+        "skill": "Strategic Planning",
+        "weight": 1.6
+      },
+      {
+        "skill": "Stakeholder Management",
+        "weight": 1.5
+      },
+      {
+        "skill": "Technical Communication",
+        "weight": 1.5
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Microsoft Azure",
+        "weight": 0.9
+      },
+      {
+        "skill": "Google Cloud Platform",
+        "weight": 0.8
+      },
+      {
+        "skill": "FinOps",
+        "weight": 0.8
+      },
+      {
+        "skill": "Istio",
+        "weight": 0.7
+      },
+      {
+        "skill": "Risk Management",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or M.S. in Computer Science, Systems Engineering, or equivalent technical discipline",
+    "minimum_experience_years": 8,
+    "sample_job_description": "We are seeking an accomplished, innovative, and visionary Cloud Architect to spearhead the evolution of our enterprise cloud strategy and infrastructure modernization roadmap. In this executive-facing technical leadership role, you will define architectural standards, multi-cloud topologies, disaster recovery postures, and high-availability designs supporting globally distributed consumer and enterprise workloads. You will serve as the primary organizational authority on cloud migration patterns, distributed systems resilience, and enterprise security frameworks, translating overarching business goals into well-architected cloud specifications. You will collaborate with senior engineering directors, principal engineers, and cybersecurity leaders to establish Zero Trust cloud perimeters, enforce compliance benchmarks (SOC2, ISO 27001), and institute automated governance policies across AWS and Azure environments. Additionally, you will champion Cloud Financial Management (FinOps) best practices, auditing cloud usage, rightsizing workloads, and implementing architectural modifications that significantly reduce ongoing infrastructure run-rates without sacrificing system performance or developer velocity. You will mentor lead engineers, author architectural decision records (ADRs), evaluate vendor solutions, and conduct thorough architecture review board assessments for all mission-critical distributed systems. You will also define disaster recovery drills, establish automated chaos engineering experiments, and ensure cross-region data synchronization integrity across hybrid cloud infrastructures. The ideal candidate exhibits masterful technical communication, deep experience navigating complex organizational trade-offs, and an established track record of delivering fault-tolerant, massive-scale cloud architectures capable of weathering catastrophic regional disruptions.",
+    "recommended_certifications": [
+      "AWS Certified Solutions Architect - Professional",
+      "Google Cloud Certified Professional Cloud Architect"
+    ],
+    "learning_path": [
+      "Master cloud infrastructure paradigms, hybrid networking topologies (DirectConnect, Transit Gateway), and global load balancing.",
+      "Architect highly available and decoupled systems using event-driven architectures, distributed queues, and serverless runtimes.",
+      "Design enterprise Zero Trust security models, identity federation (IAM, SAML, OIDC), and encryption key management lifecycles.",
+      "Implement multi-account organizational landing zones with automated compliance guardrails and Terraform governance.",
+      "Establish FinOps frameworks, cost allocation tagging, disaster recovery simulation exercises, and executive architecture governance."
+    ],
+    "sample_projects": [
+      {
+        "title": "Enterprise Cloud Landing Zone and Multi-Account Migration",
+        "tech_stack": [
+          "AWS Organizations",
+          "Terraform",
+          "Transit Gateway",
+          "AWS IAM Identity Center",
+          "GuardDuty"
+        ],
+        "description": "Designed a secure multi-account AWS Landing Zone architecture housing 60+ accounts with centralized network egress, consolidated auditing, and automated SCP governance."
+      },
+      {
+        "title": "Global Disaster Recovery and Active-Active Multi-Region Mesh",
+        "tech_stack": [
+          "AWS Route53",
+          "Aurora Global Database",
+          "EKS",
+          "DynamoDB Global Tables",
+          "Terraform"
+        ],
+        "description": "Architected an active-active cross-continental failover topology for Tier-1 financial services achieving an RPO under 1 second and RTO under 60 seconds."
+      },
+      {
+        "title": "FinOps Cloud Cost Optimization and Rightsizing Architecture",
+        "tech_stack": [
+          "AWS Cost Explorer",
+          "CloudWatch",
+          "Terraform",
+          "Kubernetes Karpenter",
+          "Python"
+        ],
+        "description": "Executed an enterprise-wide cloud optimization initiative integrating intelligent auto-scaling and spot workload orchestration, resulting in $1.8M annual savings."
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "department": "Engineering",
+    "experience_level": "Mid Level",
+    "required_skills": [
+      {
+        "skill": "JavaScript",
+        "weight": 1.9
+      },
+      {
+        "skill": "TypeScript",
+        "weight": 1.8
+      },
+      {
+        "skill": "React",
+        "weight": 1.8
+      },
+      {
+        "skill": "HTML5",
+        "weight": 1.7
+      },
+      {
+        "skill": "CSS3",
+        "weight": 1.7
+      },
+      {
+        "skill": "Responsive Web Design",
+        "weight": 1.6
+      },
+      {
+        "skill": "Web Accessibility",
+        "weight": 1.5
+      },
+      {
+        "skill": "Git",
+        "weight": 1.4
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Next.js",
+        "weight": 0.9
+      },
+      {
+        "skill": "Tailwind CSS",
+        "weight": 0.8
+      },
+      {
+        "skill": "Web Performance Optimization",
+        "weight": 0.8
+      },
+      {
+        "skill": "Figma",
+        "weight": 0.7
+      },
+      {
+        "skill": "State Management",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or equivalent degree in Computer Science, Software Engineering, or related field",
+    "minimum_experience_years": 2,
+    "sample_job_description": "We are seeking an enthusiastic and design-sensitive Frontend Developer to create exceptional, pixel-perfect digital experiences across our suite of web platforms. In this position, you will be responsible for translating creative Figma design mockups and interactive prototypes into high-performance, modular, and accessible user interfaces. You will write clean, semantically sound HTML5, modern CSS3, and strongly typed TypeScript code using React and modern build tooling such as Vite and Next.js. You will work in close lockstep with product designers, UX researchers, accessibility specialists, and backend engineers to define fluid interactions, animations, and clean client-server data contracts. A key responsibility involves upholding rigorous Web Accessibility (WCAG 2.1 AA) standards, guaranteeing that our products are entirely operable by keyboard navigation, screen readers, and diverse assistive technologies. You will also monitor Core Web Vitals, actively optimizing critical rendering paths, tree-shaking asset bundles, and implementing lazy-loading strategies to maximize client responsiveness across desktop, tablet, and mobile devices. Furthermore, you will contribute to the evolution of our central design system, authoring comprehensive documentation and automated visual tests in Storybook. The ideal candidate holds a deep appreciation for micro-interactions, possesses meticulous attention to visual detail, and demonstrates strong problem-solving skills when debugging cross-browser nuances and complex state transitions. If you take immense pride in crafting responsive user interfaces that delight millions of users while maintaining clean component libraries, we would love to connect with you.",
+    "recommended_certifications": [
+      "Meta Front-End Developer Professional Certificate",
+      "W3C Web Accessibility Specialist Certification"
+    ],
+    "learning_path": [
+      "Master advanced ECMAScript features, asynchronous programming, DOM APIs, and semantic HTML markup.",
+      "Gain deep fluency in CSS architecture, Flexbox, CSS Grid, animations, and Tailwind CSS utility workflows.",
+      "Build reactive component architectures in React with hooks, context, custom hooks, and TypeScript strict typing.",
+      "Implement enterprise state management, client-side caching (TanStack Query), and accessible design system components.",
+      "Optimize frontend performance measuring Core Web Vitals, code-splitting, bundle profiling, and SSR in Next.js."
+    ],
+    "sample_projects": [
+      {
+        "title": "Accessible Design System & UI Component Library",
+        "tech_stack": [
+          "React",
+          "TypeScript",
+          "Tailwind CSS",
+          "Storybook",
+          "Radix UI",
+          "Jest"
+        ],
+        "description": "Developed an accessible, WCAG 2.1 AA-compliant corporate component library with 45+ reusable UI controls, automated visual regression tests, and interactive Storybook docs."
+      },
+      {
+        "title": "High-Performance Content Streaming Portal",
+        "tech_stack": [
+          "Next.js",
+          "TypeScript",
+          "Tailwind CSS",
+          "Zustand",
+          "Framer Motion"
+        ],
+        "description": "Constructed an interactive multimedia streaming web app achieving a 99 Lighthouse performance score through server-side rendering, adaptive image formats, and edge caching."
+      },
+      {
+        "title": "Interactive Data Exploration & Mapping Tool",
+        "tech_stack": [
+          "React",
+          "TypeScript",
+          "D3.js",
+          "Mapbox GL",
+          "TanStack Table"
+        ],
+        "description": "Built a geospatial analytics interface rendering high-density datasets with interactive choropleth maps, dynamic filtering, and smooth cross-filter charting."
+      }
+    ]
+  },
+  {
+    "title": "Backend Developer",
+    "department": "Engineering",
+    "experience_level": "Mid-Senior Level",
+    "required_skills": [
+      {
+        "skill": "Java",
+        "weight": 1.9
+      },
+      {
+        "skill": "Spring Boot",
+        "weight": 1.9
+      },
+      {
+        "skill": "PostgreSQL",
+        "weight": 1.8
+      },
+      {
+        "skill": "RESTful APIs",
+        "weight": 1.8
+      },
+      {
+        "skill": "Docker",
+        "weight": 1.6
+      },
+      {
+        "skill": "Problem Solving",
+        "weight": 1.6
+      },
+      {
+        "skill": "Git",
+        "weight": 1.5
+      },
+      {
+        "skill": "Redis",
+        "weight": 1.5
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Apache Kafka",
+        "weight": 0.9
+      },
+      {
+        "skill": "Kubernetes",
+        "weight": 0.8
+      },
+      {
+        "skill": "Amazon Web Services",
+        "weight": 0.8
+      },
+      {
+        "skill": "gRPC",
+        "weight": 0.7
+      },
+      {
+        "skill": "Elasticsearch",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or M.S. in Computer Science, Software Engineering, or equivalent quantitative field",
+    "minimum_experience_years": 3,
+    "sample_job_description": "We are seeking a seasoned and analytical Backend Developer to engineer high-throughput, mission-critical server-side systems, distributed services, and enterprise APIs. In this role, you will be primarily responsible for the architecture, development, and reliability of our enterprise microservices backbone using Java, Spring Boot, and PostgreSQL. You will design elegant, resilient, and contract-first RESTful and gRPC APIs that securely handle complex business transactions for web and mobile consumer applications. You will optimize database interaction layers, author complex relational schema migrations, fine-tune indexing strategies, and build distributed caching tiers using Redis to maintain sub-second response latencies under heavy load. Additionally, you will implement asynchronous event-driven architectures utilizing Apache Kafka to decouple transactional workflows, buffer data streams, and enable scalable pub/sub messaging patterns across disparate services. You will write comprehensive unit, integration, and contract tests, participate in on-call engineering rotations, and perform systematic root cause analysis on production incidents to guarantee five-nines availability. Furthermore, you will profile memory footprints, identify CPU hotspots in JVM runtimes, and collaborate with DevOps engineers to configure automated deployments into Kubernetes clusters. The ideal candidate brings deep expertise in object-oriented programming principles, thread management, concurrency models, and distributed transactional consistency (such as Saga, Outbox, and 2PC patterns). If you are excited about crafting bulletproof backend architectures that scale gracefully under massive traffic spikes and maintain uncompromising data integrity, we would love to hear from you.",
+    "recommended_certifications": [
+      "Oracle Certified Professional: Java SE Developer",
+      "Spring Certified Professional"
+    ],
+    "learning_path": [
+      "Master modern core Java, memory models, JVM tuning, collections frameworks, and concurrent programming.",
+      "Build robust enterprise microservices using Spring Boot, Spring Security, Hibernate ORM, and database connection pools.",
+      "Design scalable relational database schemas in PostgreSQL with complex indexing, constraints, and query tuning.",
+      "Incorporate event-driven messaging patterns and distributed log processing using Apache Kafka.",
+      "Containerize microservices with Docker, deploy to Kubernetes clusters, and establish OpenTelemetry tracing and metrics."
+    ],
+    "sample_projects": [
+      {
+        "title": "High-Volume Core Banking Payment Gateway",
+        "tech_stack": [
+          "Java",
+          "Spring Boot",
+          "PostgreSQL",
+          "Redis",
+          "Kafka",
+          "Docker"
+        ],
+        "description": "Architected an idempotent payment execution engine processing 10,000 requests/sec with distributed transaction management, audit trails, and automated retry mechanisms."
+      },
+      {
+        "title": "Event-Driven Distributed Notification Engine",
+        "tech_stack": [
+          "Java",
+          "Spring Boot",
+          "Kafka",
+          "MongoDB",
+          "Redis",
+          "AWS SES"
+        ],
+        "description": "Engineered an asynchronous multi-channel notification engine dispatching email, SMS, and push messages with rate limiting, user priority queues, and delivery metrics."
+      },
+      {
+        "title": "Federated Product Search & Catalog Service",
+        "tech_stack": [
+          "Java",
+          "Spring Boot",
+          "Elasticsearch",
+          "PostgreSQL",
+          "gRPC",
+          "Docker"
+        ],
+        "description": "Constructed a low-latency gRPC product catalog service providing faceted search, typo tolerance, and real-time inventory checks for e-commerce platforms."
+      }
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "department": "Business Intelligence & Strategy",
+    "experience_level": "Mid Level",
+    "required_skills": [
+      {
+        "skill": "SQL",
+        "weight": 2.0
+      },
+      {
+        "skill": "Python",
+        "weight": 1.7
+      },
+      {
+        "skill": "Tableau",
+        "weight": 1.8
+      },
+      {
+        "skill": "Power BI",
+        "weight": 1.6
+      },
+      {
+        "skill": "Problem Solving",
+        "weight": 1.6
+      },
+      {
+        "skill": "Critical Thinking",
+        "weight": 1.5
+      },
+      {
+        "skill": "Technical Communication",
+        "weight": 1.5
+      },
+      {
+        "skill": "Presentation Skills",
+        "weight": 1.4
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Snowflake",
+        "weight": 0.8
+      },
+      {
+        "skill": "Google BigQuery",
+        "weight": 0.8
+      },
+      {
+        "skill": "R",
+        "weight": 0.7
+      },
+      {
+        "skill": "dbt",
+        "weight": 0.7
+      },
+      {
+        "skill": "Stakeholder Management",
+        "weight": 0.8
+      }
+    ],
+    "required_education": "B.Tech, B.S., or equivalent degree in Data Analytics, Information Systems, Mathematics, Economics, or related field",
+    "minimum_experience_years": 2,
+    "sample_job_description": "We are seeking an astute and detail-oriented Data Analyst to join our Business Intelligence and Strategy division and transform raw telemetry into competitive intelligence. In this position, you will serve as the crucial linchpin connecting raw corporate data assets with strategic, executive-level decision-making across all global product lines. You will write sophisticated SQL queries to extract, transform, and reconcile large datasets across enterprise cloud warehouses including Snowflake, Google BigQuery, and PostgreSQL. You will conceptualize, build, and maintain executive BI dashboards and operational reporting tools in Tableau and Power BI, ensuring seamless tracking of core Key Performance Indicators (KPIs) like customer acquisition costs, churn rates, and gross margins. You will partner directly with departmental leaders in sales, product, marketing, and finance to identify underlying business trends, diagnose unexpected metric fluctuations, and conduct rigorous cohort analyses. A substantial portion of your role will involve automating recurring reporting cadences, authoring clear analytical whitepapers, validating data hygiene, and delivering impactful verbal presentations to senior stakeholders. The ideal candidate displays an innate curiosity for digging beneath surface-level metrics, demonstrates a high standard for data validation and governance, and excels at articulating technical discoveries into compelling commercial insights. If you are excited to empower executive leadership with trustworthy data insights that shape product roadmaps, optimize unit economics, and guide multi-million dollar strategic investments, we encourage you to apply.",
+    "recommended_certifications": [
+      "Google Data Analytics Professional Certificate",
+      "Tableau Certified Data Analyst",
+      "Microsoft Certified: Power BI Data Analyst Associate"
+    ],
+    "learning_path": [
+      "Master advanced SQL querying, including window functions, CTEs, subqueries, and execution plan optimization.",
+      "Develop proficiency in exploratory data analysis and data cleansing utilizing Python, Pandas, and visualization libraries.",
+      "Design highly interactive, intuitive, and visually compelling dashboards in Tableau and Microsoft Power BI.",
+      "Learn dimensional modeling principles, star schemas, data cataloging, and automated data quality validation.",
+      "Cultivate executive presentation skills, business narrative storytelling, and commercial KPI translation."
+    ],
+    "sample_projects": [
+      {
+        "title": "Executive SaaS KPI & Churn Diagnostic Dashboard",
+        "tech_stack": [
+          "Tableau",
+          "SQL",
+          "Snowflake",
+          "Python",
+          "Pandas"
+        ],
+        "description": "Constructed an automated executive reporting suite tracking ARR, net revenue retention, and customer acquisition cohorts across global geographical segments."
+      },
+      {
+        "title": "Omnichannel Marketing Campaign Attribution Engine",
+        "tech_stack": [
+          "SQL",
+          "Google BigQuery",
+          "Power BI",
+          "Python"
+        ],
+        "description": "Developed a multi-touch marketing attribution model mapping consumer touchpoints across search, social, and email channels, increasing return on ad spend by 22%."
+      },
+      {
+        "title": "Supply Chain Logistics & Fulfillment Analytics Suite",
+        "tech_stack": [
+          "SQL",
+          "PostgreSQL",
+          "Tableau",
+          "Excel VBA",
+          "Python"
+        ],
+        "description": "Analyzed warehouse fulfillment workflows to identify shipment bottlenecks, creating interactive operational dashboards that reduced delivery delays by 18%."
+      }
+    ]
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "department": "Information Security & SecOps",
+    "experience_level": "Mid-Senior Level",
+    "required_skills": [
+      {
+        "skill": "Network Security",
+        "weight": 1.9
+      },
+      {
+        "skill": "Security Information and Event Management",
+        "weight": 1.9
+      },
+      {
+        "skill": "Incident Response",
+        "weight": 1.8
+      },
+      {
+        "skill": "Vulnerability Assessment",
+        "weight": 1.7
+      },
+      {
+        "skill": "Web Application Security",
+        "weight": 1.6
+      },
+      {
+        "skill": "Linux Administration",
+        "weight": 1.5
+      },
+      {
+        "skill": "Problem Solving",
+        "weight": 1.5
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "weight": 1.4
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "Penetration Testing",
+        "weight": 0.9
+      },
+      {
+        "skill": "Endpoint Detection and Response",
+        "weight": 0.8
+      },
+      {
+        "skill": "Cloud Security",
+        "weight": 0.8
+      },
+      {
+        "skill": "Wireshark",
+        "weight": 0.7
+      },
+      {
+        "skill": "Security Auditing & Compliance",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or M.S. in Cybersecurity, Computer Science, Information Assurance, or related field",
+    "minimum_experience_years": 3,
+    "sample_job_description": "We are seeking an alert, proactive, and experienced Cyber Security Analyst to join our centralized Security Operations Center (SOC) team and defend our enterprise infrastructure. In this critical role, you will be on the front lines protecting our corporate networks, cloud environments, and sensitive customer data against sophisticated cyber threats, vulnerabilities, and adversarial campaigns. You will continuously monitor, triage, and investigate security alerts generated across our enterprise SIEM (Splunk/QRadar), endpoint detection and response (EDR) platforms, and intrusion detection systems. When security anomalies or breaches occur, you will coordinate rapid incident response procedures, perform immediate containment, preserve forensic digital evidence, and conduct in-depth root cause analyses. You will carry out scheduled vulnerability assessments, scan external and internal attack surfaces using Nessus and Burp Suite, and collaborate with DevOps and software development squads to patch identified vulnerabilities. Additionally, you will participate in proactive threat hunting operations, analyzing MITRE ATT&CK tactics, techniques, and procedures (TTPs) to preemptively discover undetected adversaries within our network perimeter. You will also assist in internal security compliance audits, ensuring strict adherence to SOC2, ISO 27001, PCI-DSS, and regulatory data privacy frameworks. The ideal candidate possesses strong analytical problem-solving skills, deep familiarity with networking protocols and packet inspection, and the calm composure required to navigate high-stakes security incidents effectively.",
+    "recommended_certifications": [
+      "CompTIA Security+",
+      "Certified Information Systems Security Professional (CISSP)",
+      "GIAC Certified Incident Handler (GCIH)"
+    ],
+    "learning_path": [
+      "Master TCP/IP networking, packet inspection with Wireshark, firewall configurations, and operating system internals.",
+      "Develop expertise in enterprise SIEM tools (Splunk, Elastic) for ingestion rule design, correlation search, and log triage.",
+      "Execute standard Incident Response methodologies according to NIST and SANS frameworks, including evidence acquisition.",
+      "Perform vulnerability assessments and web application security testing aligned with OWASP Top 10 guidelines.",
+      "Advance into threat intelligence analysis, MITRE ATT&CK framework mapping, and automated SOAR response workflows."
+    ],
+    "sample_projects": [
+      {
+        "title": "Enterprise Threat Detection & SIEM Correlation Architecture",
+        "tech_stack": [
+          "Splunk",
+          "Suricata IDS",
+          "Sysmon",
+          "Python",
+          "MITRE ATT&CK"
+        ],
+        "description": "Engineered customized SIEM correlation rules mapping to MITRE ATT&CK techniques, reducing false-positive security alerts by 35% across 2,000 endpoints."
+      },
+      {
+        "title": "Automated Security Incident Triage & Response Playbook",
+        "tech_stack": [
+          "Python",
+          "SOAR",
+          "Cortex XSOAR",
+          "VirusTotal API",
+          "Slack API"
+        ],
+        "description": "Constructed an automated phishing triage script extracting suspicious email headers, querying threat intelligence APIs, and quarantining malicious mailboxes automatically."
+      },
+      {
+        "title": "Continuous Cloud Vulnerability Remediation Pipeline",
+        "tech_stack": [
+          "Trivy",
+          "Nessus",
+          "AWS Security Hub",
+          "Jira API",
+          "Docker"
+        ],
+        "description": "Implemented an automated container vulnerability scanning workflow that blocks deployment of high-severity CVEs and automatically tickets responsible engineering squads."
+      }
+    ]
+  },
+  {
+    "title": "Mobile Developer (iOS/Android)",
+    "department": "Mobile Engineering",
+    "experience_level": "Mid-Senior Level",
+    "required_skills": [
+      {
+        "skill": "Kotlin",
+        "weight": 1.8
+      },
+      {
+        "skill": "Swift",
+        "weight": 1.8
+      },
+      {
+        "skill": "Flutter",
+        "weight": 1.7
+      },
+      {
+        "skill": "RESTful APIs",
+        "weight": 1.7
+      },
+      {
+        "skill": "Git",
+        "weight": 1.5
+      },
+      {
+        "skill": "Problem Solving",
+        "weight": 1.5
+      },
+      {
+        "skill": "Web Performance Optimization",
+        "weight": 1.4
+      },
+      {
+        "skill": "Product Mindset",
+        "weight": 1.4
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "React Native",
+        "weight": 0.9
+      },
+      {
+        "skill": "GraphQL",
+        "weight": 0.7
+      },
+      {
+        "skill": "SQLite",
+        "weight": 0.8
+      },
+      {
+        "skill": "CI/CD",
+        "weight": 0.8
+      },
+      {
+        "skill": "Figma",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or equivalent degree in Computer Science, Software Engineering, or related technical field",
+    "minimum_experience_years": 3,
+    "sample_job_description": "We are seeking an accomplished and user-centric Mobile Developer (iOS/Android) to engineer next-generation native and cross-platform mobile applications. In this role, you will take complete ownership of client-side mobile feature development, crafting smooth 60fps animations, intuitive gesture navigation, and robust offline-first synchronization experiences. You will write clean, idiomatic code across Swift for iOS, Kotlin for modern Android (utilizing Jetpack Compose), and cross-platform frameworks like Flutter or React Native. You will partner collaboratively with product designers to review Figma specifications, ensure platform-specific design system adherence (Material Design and Apple Human Interface Guidelines), and champion accessibility standards across mobile devices. On the architectural front, you will implement clean modular patterns (MVVM / MVI), integrate RESTful and GraphQL backend endpoints, and manage local persistence using SQLite, Room, and CoreData. You will also take charge of automated mobile testing suites, configure automated build distribution via Fastlane and GitHub Actions, and oversee seamless Google Play Store and Apple App Store release cycles. The ideal candidate has a passion for building polished consumer apps, demonstrates deep knowledge of mobile memory lifecycles, background execution rules, and battery efficiency optimization, and stays ahead of new mobile platform updates. If you want your code to be in the hands of millions of engaged mobile users every day, we would love to see your portfolio.",
+    "recommended_certifications": [
+      "Google Associate Android Developer Certification",
+      "Meta iOS Developer Professional Certificate"
+    ],
+    "learning_path": [
+      "Master idiomatic Swift and Kotlin language syntax, object-oriented concepts, functional programming, and memory ARC/GC.",
+      "Build native reactive mobile layouts using SwiftUI on iOS and Jetpack Compose on Android with modern architecture patterns.",
+      "Establish multi-platform development fluency using Flutter and Dart for high-performance unified codebases.",
+      "Implement offline-first client storage caching using SQLite/Room/CoreData and manage background network synchronizations.",
+      "Automate mobile CI/CD build, code signing, and store deployment processes utilizing Fastlane and automated test runners."
+    ],
+    "sample_projects": [
+      {
+        "title": "Cross-Platform Digital Health & Telemedicine App",
+        "tech_stack": [
+          "Flutter",
+          "Dart",
+          "WebRTC",
+          "Firebase",
+          "RESTful APIs",
+          "Bloc"
+        ],
+        "description": "Engineered an encrypted telehealth consultation app featuring real-time video calls, appointment scheduling, health sensor data sync, and biometrics authentication."
+      },
+      {
+        "title": "Offline-First Enterprise Inventory Scanner App",
+        "tech_stack": [
+          "Android",
+          "Kotlin",
+          "Jetpack Compose",
+          "Room Database",
+          "Coroutines"
+        ],
+        "description": "Constructed a ruggedized warehouse scanning application with offline database syncing, barcode recognition, and zero data-loss transactional queues."
+      },
+      {
+        "title": "High-Fidelity Social Media & Audio Player App",
+        "tech_stack": [
+          "iOS",
+          "Swift",
+          "SwiftUI",
+          "Combine",
+          "AVFoundation",
+          "CoreData"
+        ],
+        "description": "Built a fluid social podcast player featuring background audio streaming, lock-screen interactive controls, custom waveform visualizations, and offline downloads."
+      }
+    ]
+  },
+  {
+    "title": "AI Research Engineer",
+    "department": "Advanced AI Research",
+    "experience_level": "Senior / Staff Level",
+    "required_skills": [
+      {
+        "skill": "Python",
+        "weight": 2.0
+      },
+      {
+        "skill": "PyTorch",
+        "weight": 2.0
+      },
+      {
+        "skill": "Deep Learning",
+        "weight": 1.9
+      },
+      {
+        "skill": "Transformer Architecture",
+        "weight": 1.9
+      },
+      {
+        "skill": "Large Language Models",
+        "weight": 1.8
+      },
+      {
+        "skill": "Model Fine-Tuning",
+        "weight": 1.7
+      },
+      {
+        "skill": "Natural Language Processing",
+        "weight": 1.7
+      },
+      {
+        "skill": "Critical Thinking",
+        "weight": 1.6
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "C++",
+        "weight": 0.9
+      },
+      {
+        "skill": "vLLM",
+        "weight": 0.9
+      },
+      {
+        "skill": "Reinforcement Learning",
+        "weight": 0.8
+      },
+      {
+        "skill": "Weights & Biases",
+        "weight": 0.8
+      },
+      {
+        "skill": "Diffusion Models",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "M.S. or Ph.D. in Artificial Intelligence, Computer Science, Computational Linguistics, or related technical field",
+    "minimum_experience_years": 5,
+    "sample_job_description": "We are seeking an outstanding, innovative, and pioneering AI Research Engineer to join our Advanced AI Research division and build foundational technologies. In this high-impact position, you will push the boundaries of modern artificial intelligence, conducting cutting-edge empirical research on large multimodal models, efficient transformer architectures, and scalable reasoning mechanisms. You will formulate novel research hypotheses, implement custom neural network architectures in PyTorch, and execute large-scale pre-training and alignment experiments across multi-node GPU supercomputing clusters. You will explore and innovate advanced techniques in parameter-efficient fine-tuning (PEFT/LoRA), reinforcement learning from human and AI feedback (RLHF/RLAIF), and long-context attention mechanisms. You will collaborate closely with machine learning engineers and product strategists to transfer breakthrough research discoveries into robust, production-viable algorithms and specialized domain foundation models. Furthermore, you are expected to stay at the leading edge of academic literature, author papers for top-tier AI conferences (such as NeurIPS, ICML, ICLR, and ACL), and represent the company's research advancements in the broader scientific community. Additionally, you will benchmark novel algorithmic approaches against standard open-source evaluation suites to validate generalizability and model safety. The ideal candidate has a proven track record of first-author publications or significant contributions to open-source foundation model codebases, coupled with exceptional mathematical depth and low-level deep learning systems engineering prowess.",
+    "recommended_certifications": [
+      "DeepLearning.AI Deep Learning Specialization",
+      "NVIDIA Deep Learning Institute Certificate in Transformer-Based Models"
+    ],
+    "learning_path": [
+      "Master advanced theoretical foundations of deep learning, optimization algorithms (AdamW, Muon), and neural scaling laws.",
+      "Develop expert-level proficiency in PyTorch, CUDA kernels, mixed-precision training (FP8/BF16), and distributed paradigms (FSDP, Megatron-LM).",
+      "Investigate and implement novel transformer variants, state-space models (Mamba), and sparse mixture-of-experts (MoE) architectures.",
+      "Design sophisticated post-training alignment pipelines incorporating direct preference optimization (DPO), PPO, and synthetic data curation.",
+      "Author scientific research manuscripts, benchmark novel models on public evaluation suites (MMLU, GSM8k), and open-source models."
+    ],
+    "sample_projects": [
+      {
+        "title": "Long-Context Reasoning Foundation Model Alignment",
+        "tech_stack": [
+          "Python",
+          "PyTorch",
+          "FlashAttention",
+          "Deepspeed",
+          "Hugging Face Transformers"
+        ],
+        "description": "Pioneered a specialized context-extension architecture enabling 128k token context windows for open-weights LLMs with improved needle-in-a-haystack retrieval accuracy."
+      },
+      {
+        "title": "Scalable Direct Preference Optimization Pipeline",
+        "tech_stack": [
+          "PyTorch",
+          "vLLM",
+          "Ray",
+          "Weights & Biases",
+          "Triton"
+        ],
+        "description": "Constructed a multi-node distributed alignment pipeline optimizing reasoning trajectories on mathematical problem solving, achieving state-of-the-art benchmark gains."
+      },
+      {
+        "title": "Multimodal Vision-Language Embedding Architecture",
+        "tech_stack": [
+          "Python",
+          "PyTorch",
+          "OpenCV",
+          "CUDA",
+          "ONNX Runtime"
+        ],
+        "description": "Researched and trained a compact cross-attention vision-language projection network enabling zero-shot document visual reasoning at 4x lower inference latency."
+      }
+    ]
+  },
+  {
+    "title": "Product Manager",
+    "department": "Product Management",
+    "experience_level": "Mid-Senior Level",
+    "required_skills": [
+      {
+        "skill": "Product Mindset",
+        "weight": 2.0
+      },
+      {
+        "skill": "Strategic Planning",
+        "weight": 1.9
+      },
+      {
+        "skill": "Stakeholder Management",
+        "weight": 1.8
+      },
+      {
+        "skill": "Technical Communication",
+        "weight": 1.8
+      },
+      {
+        "skill": "Agile & Scrum Methodologies",
+        "weight": 1.7
+      },
+      {
+        "skill": "Critical Thinking",
+        "weight": 1.6
+      },
+      {
+        "skill": "Customer Empathy",
+        "weight": 1.6
+      },
+      {
+        "skill": "Decision Making",
+        "weight": 1.5
+      }
+    ],
+    "optional_skills": [
+      {
+        "skill": "SQL",
+        "weight": 0.9
+      },
+      {
+        "skill": "Figma",
+        "weight": 0.8
+      },
+      {
+        "skill": "Jira",
+        "weight": 0.8
+      },
+      {
+        "skill": "Tableau",
+        "weight": 0.7
+      },
+      {
+        "skill": "Risk Management",
+        "weight": 0.7
+      }
+    ],
+    "required_education": "B.Tech, B.S., or B.A. in Computer Science, Engineering, Business Administration, or related discipline; MBA is a plus",
+    "minimum_experience_years": 4,
+    "sample_job_description": "We are seeking an entrepreneurial, strategic, and analytical Product Manager to lead product strategy and execution for our flagship digital solutions. In this pivotal role, you will be the captain of product direction, defining the long-term vision, setting roadmap priorities, and guiding cross-functional squads of software engineers, designers, data analysts, and marketers. You will engage in continuous customer discovery, conducting structured user interviews, evaluating market trends, and analyzing behavioral telemetry to identify high-value customer friction points. You will translate strategic business goals into clear product requirements documents (PRDs), comprehensive user stories, and actionable acceptance criteria within agile delivery frameworks. You will partner closely with engineering leads to negotiate technical feasibility and scope trade-offs, championing an iterative MVP release methodology that accelerates time-to-market while preserving engineering excellence. Furthermore, you will define measurable success metrics (OKRs and KPIs), launch structured A/B tests, and synthesize quantitative and qualitative experiment outcomes to drive roadmap decisions and executive accountability. You will also oversee go-to-market release execution, coordinate launch communications across sales and customer success teams, and manage ongoing product lifecycle enhancements. The ideal candidate exhibits exceptional narrative and stakeholder management capabilities, possesses a deeply empathetic customer-first mindset, and displays strong commercial judgment. If you excel at leading through influence, simplifying complex problem spaces, and delivering products that users love and that drive tangible business growth, we would love to meet you.",
+    "recommended_certifications": [
+      "Certified Scrum Product Owner (CSPO)",
+      "Product Focus Certified Product Manager",
+      "Pragmatic Institute Certified (PMC-III)"
+    ],
+    "learning_path": [
+      "Master fundamentals of product discovery, user persona development, customer journey mapping, and value proposition design.",
+      "Learn agile product backlog prioritization frameworks (RICE, MoSCoW, Kano) and sprint facilitation methodologies in Jira.",
+      "Develop data-informed decision habits, writing SQL queries and tracking product funnels using analytics platforms.",
+      "Master technical communication and system architecture basics to collaborate effortlessly with engineering squads.",
+      "Execute go-to-market (GTM) launches, pricing strategies, enterprise stakeholder alignments, and long-range product roadmapping."
+    ],
+    "sample_projects": [
+      {
+        "title": "Self-Service Customer Onboarding Revamp",
+        "tech_stack": [
+          "Mixpanel",
+          "Figma",
+          "Jira",
+          "SQL",
+          "Confluence"
+        ],
+        "description": "Spearheaded the redesign of the B2B self-service onboarding flow, streamlining account setup steps and increasing day-30 user activation by 34%."
+      },
+      {
+        "title": "AI-Powered Smart Recommendations Feature Launch",
+        "tech_stack": [
+          "Productboard",
+          "Figma",
+          "Amplitude",
+          "Jira",
+          "A/B Testing"
+        ],
+        "description": "Managed the end-to-end lifecycle of an AI recommendation widget from prototype to general availability, generating $2.4M in incremental annual recurring revenue."
+      },
+      {
+        "title": "Mobile App Checkout Optimization & Payment Expansion",
+        "tech_stack": [
+          "Jira",
+          "Figma",
+          "Tableau",
+          "Segment",
+          "Stripe API"
+        ],
+        "description": "Led an international payment integration overhaul introducing local wallet options, resulting in a 19% decrease in cart abandonment across Latin American markets."
+      }
+    ]
+  }
+]
